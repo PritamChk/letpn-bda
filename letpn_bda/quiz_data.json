@@ -1,0 +1,2029 @@
+{
+    "data": [
+        {
+            "week": 1,
+            "qustions": [
+                {
+                    "qno": 1,
+                    "statement": "Classify each of the following as N, nominal, O, ordinal, I/R, interval/ratio data:(1)Pin code of any address (2)Amount of clothes you have (3)Place of your study (4)The last grade you achieved in class (5)Mileage of any car",
+                    "options": [
+                        {
+                            "value": "I/R, O, N, I/R, I/R.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "N, I/R, N, O, O.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "N, O, N, I/R/ I/R.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "I/R, N, O, I/R, N.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 2,
+                    "statement": "Two variables having r value of 0.01. What things do they suggest?",
+                    "options": [
+                        {
+                            "value": "They are positively co-related.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "They show causality.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "They are not co-related.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "There is a 7% co-relation.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 3,
+                    "statement": "What type of analytics uses statistical and machine learning techniques?",
+                    "options": [
+                        {
+                            "value": "Decision making.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Prescriptive.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Descriptive.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Predictive.",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 4,
+                    "statement": "What are the ways to avoid overfitting issues?",
+                    "options": [
+                        {
+                            "value": "By adding a penalty for every data decreasing the complexity.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "By testing the model with one-third of the training data itself.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "By using the resampling techniques to estimate model accuracy.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "All of the above.",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 5,
+                    "statement": "Which of the following is not true about unsupervised learning?",
+                    "options": [
+                        {
+                            "value": "It finds clusters of the data.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Finding interesting co-relation and coordinates with the data.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Finding the annotate strings and predicting time series.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Finding low dimensional representations of data.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 6,
+                    "statement": "Interviewing all members of a given population is called",
+                    "options": [
+                        {
+                            "value": "A sample.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "A gall up pole",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Censuses.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Nielsen audit",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 7,
+                    "statement": "Which one of the following is the benefit of using simple random sampling?",
+                    "options": [
+                        {
+                            "value": "Informants won\u00e2\u20ac\u2122t refuse to participate.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Interviewers can choose respondent freely.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "We can calculate the accuracy of the results.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "The results are always representative.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 8,
+                    "statement": "What does a dummy variable regression analysis examine?",
+                    "options": [
+                        {
+                            "value": "Relationship between one continuous dependent and one continuous independent variable.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Relationship between one categorical dependent and one continuous independent variable.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Relationship between one continuous dependent and one categorical independent variable.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Relationship between one continuous dependent and one classified variable.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 9,
+                    "statement": "What assumptions are made when we use the t-distribution to perform a hypothesis test?",
+                    "options": [
+                        {
+                            "value": "The underline population has a constant variance.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "The underline population has a non-symmetrical distribution.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "The underline population follows a normal distribution.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "All of the above.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 10,
+                    "statement": "Which function used to print all variable names in a data frame df in R?",
+                    "options": [
+                        {
+                            "value": "names()",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "names(df)",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "df.names()",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "names(\"df\")",
+                            "is_correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": 2,
+            "qustions": [
+                {
+                    "qno": 1,
+                    "statement": "Which one of the following is true?",
+                    "options": [
+                        {
+                            "value": "Raw data is the original source of data.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Pre-processed data is the original form of data.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Raw data is the data obtained for processing steps.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the above.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 2,
+                    "statement": "Pick the wrong statement:",
+                    "options": [
+                        {
+                            "value": "Partitioning involves removing biased from the data.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Evaluation of the test set results in overfitting when the same mode is used.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Partitioning creates multiple subsets of data used for data visualisation.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Partition is used for validation to find tune the data and improve the model.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 3,
+                    "statement": "Which of the following ae the advantages of the use of final data over pure cross sectional or pure tie series modelling i) Use of final data can increase the number of degrees of freedom and therefore the power of test set. ii) The use of final data allows the average value to vary either cross-sectional or overtime, or both iii) The use of final data, the researcher allows the estimated relationship between the independent and dependent variables to vary either cross-sectional or both.",
+                    "options": [
+                        {
+                            "value": "i only.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "i and ii only.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "ii only.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "All of the above.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 4,
+                    "statement": "Which of the following data is put into a formula to produce commonly accepted results",
+                    "options": [
+                        {
+                            "value": "Raw.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Processed.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Synchronised.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "All of the above.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 5,
+                    "statement": "A dependent variable whose values are not observable outside the certain range but where the corresponding values of the independent variables are still available would be most accurately describes as, what kind of variable",
+                    "options": [
+                        {
+                            "value": "Censored.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Truncated. ",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Multi nominal variable.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Discrete choice.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 6,
+                    "statement": "Data exploration and conditioning phase focuses on",
+                    "options": [
+                        {
+                            "value": "Plot different interactive visualisations to range the techniques used.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Formal analyses and free foam filtered data to explore raw conclusions.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Converting continuous variable into categorical variables for various bin sizes.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "All of the above.",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 7,
+                    "statement": "What would you use to compare the frequency distributions of more than one set of data?",
+                    "options": [
+                        {
+                            "value": "Box plots.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Frequency distribution.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Frequency polygon.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Line graph.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 8,
+                    "statement": "What is wrong about data visualisation in the following statements?",
+                    "options": [
+                        {
+                            "value": "Bar graphs are used for time series data.(1)",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Line graphs focusses on outcome variable.(2)",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "For supervised learning methods.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "both 1 & 2",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 9,
+                    "statement": "What does a large standard deviation suggest?",
+                    "options": [
+                        {
+                            "value": "Data and values are widely distributed and that the mean may not be a reliable measure of central tendency.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "The values are not widely distributed and the median would be an unreliable measure of the central tendency.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Values are not normally distributed.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "All of the measures of central tendency would be reliable.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 10,
+                    "statement": "Histograms, pie charts, and frequency polygon are all types of:",
+                    "options": [
+                        {
+                            "value": "Two dimension diagram.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Cumulative diagram",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Dispersion diagram.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "One dimension diagram.",
+                            "is_correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": 3,
+            "qustions": [
+                {
+                    "qno": 1,
+                    "statement": "Type of classification in which class is subdivided into sub classes and subclasses are divided into more classes is considered as ",
+                    "options": [
+                        {
+                            "value": "Simple classification.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Manifold classification.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Rational classification.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Reflected classification.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 2,
+                    "statement": "What is not true about multi-dimensional visualisation?",
+                    "options": [
+                        {
+                            "value": "Quick access to relevant business insights.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Disintegration of data and latest trends.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Sales analysis prediction figures.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the above.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 3,
+                    "statement": "Which of the following techniques would perform better for reducing dimension of a data set?",
+                    "options": [
+                        {
+                            "value": "Remaining columns which have too many missing values.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Remaining columns with dissimilar data trends.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Removing columns which have high variance in data.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the above.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 4,
+                    "statement": "The most popularly dimensionality reduction algorithm/technique is principal component analysis (PCA). Which of the following is/are true about PCA? I: PCA is supervised value. (II): It searches for the directions that data have the largest variance. (III): Maximum number of principal components is equal to number of features. (IV): All principal components are orthogonal to each other.",
+                    "options": [
+                        {
+                            "value": "I and II",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "I, II and IV",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "II and III",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "All of the above",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 5,
+                    "statement": "Dimension Reduction techniques consists of: (I): Domain Knowledge (II): Data Exploration techniques (III): Data Conversion techniques (IV): Automated conversion techniques (V): Data mining techniques",
+                    "options": [
+                        {
+                            "value": "II, IV and V",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "I, III and IV",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "I, IV and V",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "All of the above",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 6,
+                    "statement": "Consider the following image, which of the following is/are example of multi-collinear features:",
+                    "options": [
+                        {
+                            "value": "Features in image 1",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Features in image 3",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Features in image 2&3",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Features in image 1&2",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 7,
+                    "statement": "Adding a non-important feature to a linear regression model may result in -[ Statement I: Increase R-square ] [ Statement II: Decrease R-square ]",
+                    "options": [
+                        {
+                            "value": "Only statement I is correct",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Only statement II is correct",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of these",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Either statement I or II",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 8,
+                    "statement": "Which of them is the best considered for prediction?",
+                    "options": [
+                        {
+                            "value": "Linear regression",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Logistic regression",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "CART",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Na\u00c3\u00afve Bayes",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 9,
+                    "statement": "Correlation analysis is used to",
+                    "options": [
+                        {
+                            "value": "Simultaneously compare the effect of multiple independent variables on a dependent variable.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Predict values of y based on value of x.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Measure the strength of association between two variables",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "All of the above",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 10,
+                    "statement": "The degree of linear association between two metric scaled variables is measured by",
+                    "options": [
+                        {
+                            "value": "Pearson correlation coefficient",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Significance level",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Analysis of variance",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "\u00ce\u00b2",
+                            "is_correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": 4,
+            "qustions": [
+                {
+                    "qno": 1,
+                    "statement": "Which of the following metrics measures the \u00e2\u20ac\u02dcgoodness of fit\u00e2\u20ac\u2122 of a regression model?",
+                    "options": [
+                        {
+                            "value": "Mean absolute deviation",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Root mean squared error",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "R-squared",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "The total sum of squared errors",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 2,
+                    "statement": "Which statement about outliers is true?",
+                    "options": [
+                        {
+                            "value": "Outliers should be identified and removed from a dataset.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Outliers should be part of the training dataset but should not be present in the test data.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Outliers should be part of the test dataset but should not be present in the training data.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "The nature of the problem determines how outliers are used.",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 3,
+                    "statement": "The average positive difference between computed and desired outcome values.",
+                    "options": [
+                        {
+                            "value": "Root mean squared error",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Mean squared error",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Mean absolute error",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Mean positive error",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 4,
+                    "statement": "Which of the following is a common use of unsupervised clustering?",
+                    "options": [
+                        {
+                            "value": "Detect outliers",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Determine a best set of input attributes for supervised learning",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Determine if meaningful relationships can be found in a dataset",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "All of a, b, and c are common uses of unsupervised clustering.",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 5,
+                    "statement": "What are the axes of an ROC curve?",
+                    "options": [
+                        {
+                            "value": "Vertical axis: % of true negatives; Horizontal axis: % of false negatives",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Vertical axis: % of true positives; Horizontal axis: % of false positives",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Vertical axis: % of false negatives; Horizontal axis: % of false positives",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Vertical axis: % of false positives; Horizontal axis: % of true negatives",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 6,
+                    "statement": "When or why should we use oversampling?",
+                    "options": [
+                        {
+                            "value": "When the cost of failing rare events are low.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "To de-emphasize rare events to the learning algorithm",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "When a dataset used for learning a predictive model for a binary response variable includes significantly more items with one choice of response than the other choice, and we seek to accurately predict both the choices.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "When a dataset used for learning a predictive model, for a binary response variable includes roughly the same number of items for each choice.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 7,
+                    "statement": "In a military application domain, suppose we build a classifier for screening of terrorists (True means action has to be taken). Suppose that the confusion matrix is from testing the classifier on some test data. Which of the following situations would you like your classifier to have?",
+                    "options": [
+                        {
+                            "value": "FP >> FN",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "FN >> FP",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "FN = FP \u00c3\u2014 TP",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "TN >> FP",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 8,
+                    "statement": "Which is not included as a step when partitioning is done with oversampling.",
+                    "options": [
+                        {
+                            "value": "Randomly select class 0 records to maintain the original ratio of class 0 to class 1 records for validation partition.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Randomly select class 0 records for training partition equal to no. of class 1 records.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Half the records from class 1 stratum are randomly selected into training partition.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Validate the models using the training set of class 0 to class 1 to maintain the accuracy of class 0 to class 1.",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 9,
+                    "statement": "Which statement is true about prediction problems?",
+                    "options": [
+                        {
+                            "value": "The output attribute must be categorical.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "The output attribute must be numeric.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "The resultant model is designed to determine future outcomes.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "The resultant model is designed to classify current behavior.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 10,
+                    "statement": "Why is asymmetric misclassification error considered as a part of performance metrics?",
+                    "options": [
+                        {
+                            "value": "It changes the rule of classification, the cut off value in every field can be synchronised in that manner.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "It shows the scenario of costs with analysing data, which can minimize loss and maximize profits.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "It enhances the values for prediction, so accuracy increases averaging the error pruned through the datasets. ",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "It represents the processed data, that can be collected and models and various data visualization techniques can be applied.",
+                            "is_correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": 5,
+            "qustions": [
+                {
+                    "qno": 1,
+                    "statement": "Choose the correct statement with respect to prediction performance:",
+                    "options": [
+                        {
+                            "value": "The focus is on continuous outcome variable",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "The focus is on categorical outcome variable",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Prediction performance is same as classification performance",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "All of the above",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 2,
+                    "statement": "Consider the following statements and choose the correct option: Statement I: \u00e2\u20ac\u02dcGoodness of fit\u00e2\u20ac\u2122 focuses on how well the model fits the data Statement II: The model obtained in data mining is certainly same as the one obtained in statistical setting",
+                    "options": [
+                        {
+                            "value": "Only statement I is correct",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Only statement II is correct",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Both the statements are correct",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the statement are correct",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 3,
+                    "statement": "In data mining modelling, prediction error is typically computed on:",
+                    "options": [
+                        {
+                            "value": "Training partition",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Validation partition",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Test partition",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the above",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 4,
+                    "statement": "If the overall average error is negative, what does it indicate?",
+                    "options": [
+                        {
+                            "value": "On an average level, the model is over predicting the observations",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "On an average level, the model is under predicting the observations",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "On an average level, the model has less impact on predicting the observations",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "The model has no impact on predicting the observations",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 5,
+                    "statement": "Consider the following statements and choose the correct option: Assertion: RMSE is one of the most preferred metrics of predictive accuracy Reasoning: It is computed in the same unit as the outcome variable and similar to the standard error of estimate",
+                    "options": [
+                        {
+                            "value": "Assertion is correct and reasoning gives the correct explanation",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Assertion is correct but reasoning does not give the correct explanation",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Assertion is incorrect but reasoning is correct",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Both assertion and reasoning are incorrect",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 6,
+                    "statement": "Predictive modelling in multiple linear regression is:",
+                    "options": [
+                        {
+                            "value": "Used to estimate best-fit model",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Used to estimate values of outcome variable for new records",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "More emphasized in statistical setting",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Prediction performance is of secondary importance",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 7,
+                    "statement": "Select the correct option:",
+                    "options": [
+                        {
+                            "value": "OLS computes the sample estimates which minimizes the sum of deviations between predicted and actual values",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "OLS computes the sample estimates which maximizes the sum of deviations between predicted and actual values",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "OLS computes the sample estimates which minimizes the sum of squared deviation between predicted and actual values",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "OLS computes the sample estimates which maximizes the sum of squared deviation between predicted and actual values",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 8,
+                    "statement": "Which of the following assumptions of multiple linear regression can be relaxed in data mining?",
+                    "options": [
+                        {
+                            "value": "Noise follows a normal distribution",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Observations are independent",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Linear relationship holds true",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Heteroscedasticity",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 9,
+                    "statement": "Which among the following statements is incorrect with respect to explanatory modeling?",
+                    "options": [
+                        {
+                            "value": "The final model selected may not have the best predictive accuracy",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Full sample is used to estimate the final model",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "More suitable for statistical modelling",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "There is no previously assumed structure",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 10,
+                    "statement": "Which of the following visualization techniques can be used for measuring predictive performance of a model?",
+                    "options": [
+                        {
+                            "value": "Decile chart",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Histogram",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Lift curve",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Both A and C",
+                            "is_correct": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": 6,
+            "qustions": [
+                {
+                    "qno": 1,
+                    "statement": "Consider the following statements and choose the correct option: Assertion (S): The value of adjusted R2 is always less than the value of R2 Reason (R): Adjusted R2 accounts for the number of predictors in multiple linear regression model",
+                    "options": [
+                        {
+                            "value": "Both S and R are true and R is the correct explanation of S",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Both S and R are true but R is not the correct explanation of S",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "S is true but R is false",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "S is false but R is true",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 2,
+                    "statement": "If the structure of the data is complex and irregular, which of the following will be optimum value of \u00e2\u20ac\u02dck\u00e2\u20ac\u2122?",
+                    "options": [
+                        {
+                            "value": "On the higher side",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "On the lower side",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Equal to the total number of observations in the dataset",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "The value of \u00e2\u20ac\u02dck\u00e2\u20ac\u2122 has no impact",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 3,
+                    "statement": "Which of the following statements is incorrect with respect to adjusted R-squared value?",
+                    "options": [
+                        {
+                            "value": "Higher the number of predictors, higher the adjusted R-squared value",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "In a single predictor case, value of adjusted R-squared is equal to squared correlation",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Adjusted R-squared uses a penalty on the number of predictors",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Higher values of adjusted R-square indicate better fit",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 4,
+                    "statement": "Which among the following techniques can be used for variable selection and dimension reduction?",
+                    "options": [
+                        {
+                            "value": "Exhaustive search",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Partial iterative search",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Both A and B",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "None of the above",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 5,
+                    "statement": "In partial iterative search, which of the following algorithms are begun with the full model?",
+                    "options": [
+                        {
+                            "value": "Forward selection",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Backward selection",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Exhaustive search",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Stepwise regression",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 6,
+                    "statement": "Which of the following algorithms overlooks the pairs or groups of predictors that perform well together but perform poorly as single predictors?",
+                    "options": [
+                        {
+                            "value": "Forward selection",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Backward selection",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Exhaustive search",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Both A and B",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 7,
+                    "statement": "Compute the Euclidean distance for the following data points with 4 predictors: S(3,5,2,8) and T(1,4,6,2)",
+                    "options": [
+                        {
+                            "value": "16.15",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "7.54",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "5",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "13",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 8,
+                    "statement": "In k-NN technique, which of the following is a limitation of using high value of k? ",
+                    "options": [
+                        {
+                            "value": "Fitting to local patterns",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Dominance of global effect",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Fitting to noise",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the above",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 9,
+                    "statement": "Which of the following situations is regarded as a na\u00c3\u00afve rule in k-NN?",
+                    "options": [
+                        {
+                            "value": "When k =1",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "When k >1",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "When k =n (where \u00e2\u20ac\u02dcn\u00e2\u20ac\u2122 is the number of total observations)",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "When 1<k<n (where \u00e2\u20ac\u02dcn\u00e2\u20ac\u2122 is the number of total observations)",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 10,
+                    "statement": "What changes are observed when k-NN is used for prediction task rather than classification task?",
+                    "options": [
+                        {
+                            "value": "Computation of distance between the new observation and training partition records is different",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Value of new record is determined using weighted average of all the k-nearest records",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Value of new record is determined using weighted average of the records belonging to the dominant class",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Overall misclassification error is used as performance metric",
+                            "is_correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": 7,
+            "qustions": [
+                {
+                    "qno": 1,
+                    "statement": "While classifying a new observation, which technique utilizes the method of finding training partition records that have the same predictor values as the new observation?",
+                    "options": [
+                        {
+                            "value": "Na\u00c3\u00afve Bayes",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "k-NN",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Complete Bayes",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Multiple linear regression",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 2,
+                    "statement": "Consider the following statements and choose the correct option: Assertion (S): Complete Bayes model is not suitable for prediction task Reason (R): It is difficult to find training records with exact values of predictors as found in the new record to be classified",
+                    "options": [
+                        {
+                            "value": "Both S and R are true and R is the correct explanation of S",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Both S and R are true but R is not the correct explanation of S",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "S is true but R is false",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "S is false but R is true",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 3,
+                    "statement": "A dataset consists of 800 records of whether a flight was delayed or not due to weather issues (clear weather or bad weather). Out of 800 flights, 600 flights were delayed and 200 flights were on time. Out of the total flights that got delayed, 450 flights faced bad weather. For the remaining flights which were on time, only 25 flights faced bad weather. Compute the conditional probability (exact Bayes) of the flights that got delayed given the weather was clear.",
+                    "options": [
+                        {
+                            "value": "0.25",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "0.46",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "0.75",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "0.54",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 4,
+                    "statement": "Which of the following statements related to Bayes model is incorrect?",
+                    "options": [
+                        {
+                            "value": "Bayes model is more suitable for classification task rather than prediction task",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "When number of predictors is more, Exact Bayes model is more suitable",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "It is preferable to use categorical predictors for computing Bayes model",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Numerical predictors are converted into categorical predictors for Bayes model",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 5,
+                    "statement": "Statement I: Na\u00c3\u00afve Bayes model is suitable for classification problems. Statement II: The probability values in Na\u00c3\u00afve Bayes, should be accurate in absolute terms. Which of the following are true?",
+                    "options": [
+                        {
+                            "value": "Statement I is true and Statement II is false",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Statement II is true and Statement I is false",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Both the statements are true",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Both the statements are false",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 6,
+                    "statement": "Which of the following statements are true with respect to Na\u00c3\u00afve Bayes model?",
+                    "options": [
+                        {
+                            "value": "Predictor values must not be independent of each other for a given class",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Absolute accuracy in actual probability values is essential to classify a new record",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Reasonable accuracy in rank ordering of probability values is required to classify a new observation",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Computation of denominator in Na\u00c3\u00afve Bayes formula impacts the rank ordering of probability values",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 7,
+                    "statement": "In which of the following case is it advisable to misclassify few truthful financial reports as fraudulent reports?",
+                    "options": [
+                        {
+                            "value": "When the goal is to reduce overall misclassification error",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "When the goal is to accurately identify records belonging to a specific class of interest",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "When the goal is to maximize overall classification accuracy",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the above",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 8,
+                    "statement": "For identifying maximum records belonging to a specific class of interest, the cut-off value is typically set at:",
+                    "options": [
+                        {
+                            "value": "Below 0.5",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Above 0.5",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Equal to 0.5",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the above",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 9,
+                    "statement": "Which of the following tools are suitable for computing conditional probability?",
+                    "options": [
+                        {
+                            "value": "Solver",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Pivot Table",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Conditional Formatting",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Bar chart",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 10,
+                    "statement": "Which among the following is a limitation of Na\u00c3\u00afve Bayes method?",
+                    "options": [
+                        {
+                            "value": "Performs better with classification or ranking of records",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Estimation of actual probabilities of a class",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Requires large number of records to obtain good results",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "All of the above",
+                            "is_correct": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": 8,
+            "qustions": [
+                {
+                    "qno": 1,
+                    "statement": "Pruning of a decision tree utilizes:",
+                    "options": [
+                        {
+                            "value": "Training partition data",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Validation partition data",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Test partition data",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Any part of the data",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 2,
+                    "statement": "Which among the following statements is not true?",
+                    "options": [
+                        {
+                            "value": "Recursive partitioning results in non-overlapping multi-dimensional rectangles",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Recursive partitioning results in smaller and smaller rectangular regions",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Recursive partitioning continues till heterogeneous groups are reached",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Recursive partitioning results in zero error",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 3,
+                    "statement": "If there are 2 classes with equal representation from each class, what will be the range of Gini values?",
+                    "options": [
+                        {
+                            "value": "{0, 2}",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "{0, 1}",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "{-1, 1}",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "{0, 0.5}",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 4,
+                    "statement": "For \u00e2\u20ac\u02dcn\u00e2\u20ac\u2122 number of decision nodes, how many terminal nodes will be computed in a decision tree?",
+                    "options": [
+                        {
+                            "value": "n",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "(n-1)",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "(n+1)",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Can\u00e2\u20ac\u2122t say",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 5,
+                    "statement": "Which of the following functions can be used to obtain overlapping observations in training and validation partitions?",
+                    "options": [
+                        {
+                            "value": "Replace",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Intersect",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Rpart.control",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Split",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 6,
+                    "statement": "Which of the following is used as the basis for selecting the split-value of a predictor?",
+                    "options": [
+                        {
+                            "value": "Snipping",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Impurity reduction",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Pruning",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Overfitting",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 7,
+                    "statement": "Decision trees can be used for:",
+                    "options": [
+                        {
+                            "value": "Classification task only",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Prediction task only",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Both classification and prediction task",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "None of the above",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 8,
+                    "statement": "Which of the following processes is followed to fit the decision tree to the predictor\u00e2\u20ac\u2122s information and not to the noise?",
+                    "options": [
+                        {
+                            "value": "Splitting",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Pruning",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Partitioning",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Overfitting",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 9,
+                    "statement": "There are 12 students who have taken a test. Out of these 12 students, 9 have passed the test while 3 have failed.  Compute the entropy measure for the above case scenario.",
+                    "options": [
+                        {
+                            "value": "0.727",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "1.20",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "0.189",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "0.811",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 10,
+                    "statement": "The final nodes of a decision tree corresponding to the final homogenous groups into which the p-space of predictor values is partitioned are termed as:",
+                    "options": [
+                        {
+                            "value": "Child node",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Decision node",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Root node",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Terminal node",
+                            "is_correct": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": 9,
+            "qustions": [
+                {
+                    "qno": 1,
+                    "statement": "What is the the range of Gini value for 2-class scenario?",
+                    "options": [
+                        {
+                            "value": "{0, 0.5}",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "{0, (m-1)/m}",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "{0, 1}",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "{0, m/(m-1)}",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 2,
+                    "statement": "What is the range of the entropy value for 2-class scenario?",
+                    "options": [
+                        {
+                            "value": "{0, log2(m)}",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "{0, 0.5}",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "{0, l}",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "None of the above.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 3,
+                    "statement": "What is the range of the entropy value for m-class scenario?",
+                    "options": [
+                        {
+                            "value": "{0, log2(m)}",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "{0, l}",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "{0, 0.5}",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the above.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 4,
+                    "statement": "Like linear regression logistic regression\u00e2\u20ac\u00a6\u00e2\u20ac\u00a6\u00e2\u20ac\u00a6\u00e2\u20ac\u00a6.",
+                    "options": [
+                        {
+                            "value": "has one or more independent variables.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "provides a value directly from an equation for the dependent variable",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Uses the same method to estimate b weights.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "has a dependent variable.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 5,
+                    "statement": "In a binary case, a cutoff of 0.5 means that cases with an estimated probability of P(Y=1) > 0.5 are classified as belonging to:",
+                    "options": [
+                        {
+                            "value": "Class 1",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Class 0",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Both A and B",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the above",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 6,
+                    "statement": "In logistic regression  ",
+                    "options": [
+                        {
+                            "value": "The model chi square (traditional fit measure/likelihood ratio test) provides information on overall model fit where a significant p value indicates that the current model is a better fit than the previous one.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "The model chi square (traditional fit measure/likelihood ratio test) provides information on overall model fit where a significant p value indicates that the current model is a worse fit than the previous one.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "The model chi square (traditional fit measure/likelihood ratio test) provides information on model fit for a single b coefficient, where a significant p value indicates that the current model is a better fit than the previous one.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "The model chi square (traditional fit measure/likelihood ratio test) provides information on model fit for a single b coefficient, where a insignificant p value indicates that the current model is a better fit than the previous one",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 7,
+                    "statement": "Which of the following statement(s) can be true post adding a variable in a linear regression model?",
+                    "options": [
+                        {
+                            "value": "R-Squared and Adjusted R-squared both increase",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "R-Squared increases and Adjusted R-squared decreases",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "R-Squared decreases and Adjusted R-squared decreases",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "R-Squared decreases and Adjusted R-squared increases",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 8,
+                    "statement": "Which of the above statement(s) are correct? Suppose you are training a linear regression model. Now consider these points. 1. Overfitting is more likely if we have less data 2. Overfitting is more likely when the hypothesis space is small.",
+                    "options": [
+                        {
+                            "value": "Both are False",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "1 is False and 2 is True",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "1 is True and 2 is False",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Both are True",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 9,
+                    "statement": "Regression trees are often used to model _______ data.",
+                    "options": [
+                        {
+                            "value": "linear",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "nonlinear",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "categorical",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "symmetrical",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 10,
+                    "statement": "Simple regression assumes a __________ relationship between the input  attribute and output attribute.",
+                    "options": [
+                        {
+                            "value": "linear",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "quadratic",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "reciprocal",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "inverse",
+                            "is_correct": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+Pruning of a decision tree utilizes:
+Training partition data
+Validation partition data
+Test partition data
+Any part of the data
+Validation partition data
+Which among the following statements is not true?
+Recursive partitioning results in non-overlapping multi-dimensional rectangles
+Recursive partitioning results in smaller and smaller rectangular regions
+Recursive partitioning continues till heterogeneous groups are reached
+Recursive partitioning results in zero error
+Recursive partitioning continues till heterogeneous groups are reached
+If there are 2 classes with equal representation from each class, what will be the range of Gini values?
+{0, 2}
+{0, 1}
+{-1, 1}
+{0, 0.5}
+{0, 0.5}
+For ‘n’ number of decision nodes, how many terminal nodes will be computed in a decision tree?
+n
+(n-1)
+(n+1)
+Can’t say
+(n+1)
+Which of the following functions can be used to obtain overlapping observations in training and validation partitions?
+Replace
+Intersect
+Rpart.control
+Split
+Intersect
+Which of the following is used as the basis for selecting the split-value of a predictor?
+Snipping
+Impurity reduction
+Pruning
+Overfitting
+Impurity reduction
+Decision trees can be used for:
+Classification task only
+Prediction task only
+Both classification and prediction task
+None of the above
+Both classification and prediction task
+Which of the following processes is followed to fit the decision tree to the predictor’s information and not to the noise?
+Splitting
+Pruning
+Partitioning
+Overfitting
+Pruning
+There are 12 students who have taken a test. Out of these 12 students, 9 have passed the test while 3 have failed.  Compute the entropy measure for the above case scenario.
+0.727
+1.20
+0.189
+0.811
+0.811
+The final nodes of a decision tree corresponding to the final homogenous groups into which the p-space of predictor values is partitioned are termed as:
+Child node
+Decision node
+Root node
+Terminal node
+Terminal node
+

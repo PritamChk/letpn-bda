@@ -1,0 +1,225 @@
+{
+    "week": 7,
+    "qustions": [
+        {
+            "qno": 1,
+            "statement": "While classifying a new observation, which technique utilizes the method of finding training partition records that have the same predictor values as the new observation?",
+            "options": [
+                {
+                    "value": "Na\u00c3\u00afve Bayes",
+                    "is_correct": false
+                },
+                {
+                    "value": "k-NN",
+                    "is_correct": false
+                },
+                {
+                    "value": "Complete Bayes",
+                    "is_correct": true
+                },
+                {
+                    "value": "Multiple linear regression",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 2,
+            "statement": "Consider the following statements and choose the correct option: Assertion (S): Complete Bayes model is not suitable for prediction task Reason (R): It is difficult to find training records with exact values of predictors as found in the new record to be classified",
+            "options": [
+                {
+                    "value": "Both S and R are true and R is the correct explanation of S",
+                    "is_correct": true
+                },
+                {
+                    "value": "Both S and R are true but R is not the correct explanation of S",
+                    "is_correct": false
+                },
+                {
+                    "value": "S is true but R is false",
+                    "is_correct": false
+                },
+                {
+                    "value": "S is false but R is true",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 3,
+            "statement": "A dataset consists of 800 records of whether a flight was delayed or not due to weather issues (clear weather or bad weather). Out of 800 flights, 600 flights were delayed and 200 flights were on time. Out of the total flights that got delayed, 450 flights faced bad weather. For the remaining flights which were on time, only 25 flights faced bad weather. Compute the conditional probability (exact Bayes) of the flights that got delayed given the weather was clear.",
+            "options": [
+                {
+                    "value": "0.25",
+                    "is_correct": false
+                },
+                {
+                    "value": "0.46",
+                    "is_correct": true
+                },
+                {
+                    "value": "0.75",
+                    "is_correct": false
+                },
+                {
+                    "value": "0.54",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 4,
+            "statement": "Which of the following statements related to Bayes model is incorrect?",
+            "options": [
+                {
+                    "value": "Bayes model is more suitable for classification task rather than prediction task",
+                    "is_correct": false
+                },
+                {
+                    "value": "When number of predictors is more, Exact Bayes model is more suitable",
+                    "is_correct": true
+                },
+                {
+                    "value": "It is preferable to use categorical predictors for computing Bayes model",
+                    "is_correct": false
+                },
+                {
+                    "value": "Numerical predictors are converted into categorical predictors for Bayes model",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 5,
+            "statement": "Statement I: Na\u00c3\u00afve Bayes model is suitable for classification problems. Statement II: The probability values in Na\u00c3\u00afve Bayes, should be accurate in absolute terms. Which of the following are true?",
+            "options": [
+                {
+                    "value": "Statement I is true and Statement II is false",
+                    "is_correct": true
+                },
+                {
+                    "value": "Statement II is true and Statement I is false",
+                    "is_correct": false
+                },
+                {
+                    "value": "Both the statements are true",
+                    "is_correct": false
+                },
+                {
+                    "value": "Both the statements are false",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 6,
+            "statement": "Which of the following statements are true with respect to Na\u00c3\u00afve Bayes model?",
+            "options": [
+                {
+                    "value": "Predictor values must not be independent of each other for a given class",
+                    "is_correct": false
+                },
+                {
+                    "value": "Absolute accuracy in actual probability values is essential to classify a new record",
+                    "is_correct": false
+                },
+                {
+                    "value": "Reasonable accuracy in rank ordering of probability values is required to classify a new observation",
+                    "is_correct": true
+                },
+                {
+                    "value": "Computation of denominator in Na\u00c3\u00afve Bayes formula impacts the rank ordering of probability values",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 7,
+            "statement": "In which of the following case is it advisable to misclassify few truthful financial reports as fraudulent reports?",
+            "options": [
+                {
+                    "value": "When the goal is to reduce overall misclassification error",
+                    "is_correct": false
+                },
+                {
+                    "value": "When the goal is to accurately identify records belonging to a specific class of interest",
+                    "is_correct": true
+                },
+                {
+                    "value": "When the goal is to maximize overall classification accuracy",
+                    "is_correct": false
+                },
+                {
+                    "value": "None of the above",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 8,
+            "statement": "For identifying maximum records belonging to a specific class of interest, the cut-off value is typically set at:",
+            "options": [
+                {
+                    "value": "Below 0.5",
+                    "is_correct": true
+                },
+                {
+                    "value": "Above 0.5",
+                    "is_correct": false
+                },
+                {
+                    "value": "Equal to 0.5",
+                    "is_correct": false
+                },
+                {
+                    "value": "None of the above",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 9,
+            "statement": "Which of the following tools are suitable for computing conditional probability?",
+            "options": [
+                {
+                    "value": "Solver",
+                    "is_correct": false
+                },
+                {
+                    "value": "Pivot Table",
+                    "is_correct": true
+                },
+                {
+                    "value": "Conditional Formatting",
+                    "is_correct": false
+                },
+                {
+                    "value": "Bar chart",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 10,
+            "statement": "Which among the following is a limitation of Na\u00c3\u00afve Bayes method?",
+            "options": [
+                {
+                    "value": "Performs better with classification or ranking of records",
+                    "is_correct": false
+                },
+                {
+                    "value": "Estimation of actual probabilities of a class",
+                    "is_correct": false
+                },
+                {
+                    "value": "Requires large number of records to obtain good results",
+                    "is_correct": false
+                },
+                {
+                    "value": "All of the above",
+                    "is_correct": true
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "week": 5,
+    "qustions": [
+        {
+            "qno": 1,
+            "statement": "Choose the correct statement with respect to prediction performance:",
+            "options": [
+                {
+                    "value": "The focus is on continuous outcome variable",
+                    "is_correct": true
+                },
+                {
+                    "value": "The focus is on categorical outcome variable",
+                    "is_correct": false
+                },
+                {
+                    "value": "Prediction performance is same as classification performance",
+                    "is_correct": false
+                },
+                {
+                    "value": "All of the above",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 2,
+            "statement": "Consider the following statements and choose the correct option: Statement I: \u00e2\u20ac\u02dcGoodness of fit\u00e2\u20ac\u2122 focuses on how well the model fits the data Statement II: The model obtained in data mining is certainly same as the one obtained in statistical setting",
+            "options": [
+                {
+                    "value": "Only statement I is correct",
+                    "is_correct": true
+                },
+                {
+                    "value": "Only statement II is correct",
+                    "is_correct": false
+                },
+                {
+                    "value": "Both the statements are correct",
+                    "is_correct": false
+                },
+                {
+                    "value": "None of the statement are correct",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 3,
+            "statement": "In data mining modelling, prediction error is typically computed on:",
+            "options": [
+                {
+                    "value": "Training partition",
+                    "is_correct": false
+                },
+                {
+                    "value": "Validation partition",
+                    "is_correct": true
+                },
+                {
+                    "value": "Test partition",
+                    "is_correct": false
+                },
+                {
+                    "value": "None of the above",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 4,
+            "statement": "If the overall average error is negative, what does it indicate?",
+            "options": [
+                {
+                    "value": "On an average level, the model is over predicting the observations",
+                    "is_correct": false
+                },
+                {
+                    "value": "On an average level, the model is under predicting the observations",
+                    "is_correct": true
+                },
+                {
+                    "value": "On an average level, the model has less impact on predicting the observations",
+                    "is_correct": false
+                },
+                {
+                    "value": "The model has no impact on predicting the observations",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 5,
+            "statement": "Consider the following statements and choose the correct option: Assertion: RMSE is one of the most preferred metrics of predictive accuracy Reasoning: It is computed in the same unit as the outcome variable and similar to the standard error of estimate",
+            "options": [
+                {
+                    "value": "Assertion is correct and reasoning gives the correct explanation",
+                    "is_correct": true
+                },
+                {
+                    "value": "Assertion is correct but reasoning does not give the correct explanation",
+                    "is_correct": false
+                },
+                {
+                    "value": "Assertion is incorrect but reasoning is correct",
+                    "is_correct": false
+                },
+                {
+                    "value": "Both assertion and reasoning are incorrect",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 6,
+            "statement": "Predictive modelling in multiple linear regression is:",
+            "options": [
+                {
+                    "value": "Used to estimate best-fit model",
+                    "is_correct": false
+                },
+                {
+                    "value": "Used to estimate values of outcome variable for new records",
+                    "is_correct": true
+                },
+                {
+                    "value": "More emphasized in statistical setting",
+                    "is_correct": false
+                },
+                {
+                    "value": "Prediction performance is of secondary importance",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 7,
+            "statement": "Select the correct option:",
+            "options": [
+                {
+                    "value": "OLS computes the sample estimates which minimizes the sum of deviations between predicted and actual values",
+                    "is_correct": false
+                },
+                {
+                    "value": "OLS computes the sample estimates which maximizes the sum of deviations between predicted and actual values",
+                    "is_correct": false
+                },
+                {
+                    "value": "OLS computes the sample estimates which minimizes the sum of squared deviation between predicted and actual values",
+                    "is_correct": true
+                },
+                {
+                    "value": "OLS computes the sample estimates which maximizes the sum of squared deviation between predicted and actual values",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 8,
+            "statement": "Which of the following assumptions of multiple linear regression can be relaxed in data mining?",
+            "options": [
+                {
+                    "value": "Noise follows a normal distribution",
+                    "is_correct": true
+                },
+                {
+                    "value": "Observations are independent",
+                    "is_correct": false
+                },
+                {
+                    "value": "Linear relationship holds true",
+                    "is_correct": false
+                },
+                {
+                    "value": "Heteroscedasticity",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 9,
+            "statement": "Which among the following statements is incorrect with respect to explanatory modeling?",
+            "options": [
+                {
+                    "value": "The final model selected may not have the best predictive accuracy",
+                    "is_correct": false
+                },
+                {
+                    "value": "Full sample is used to estimate the final model",
+                    "is_correct": false
+                },
+                {
+                    "value": "More suitable for statistical modelling",
+                    "is_correct": false
+                },
+                {
+                    "value": "There is no previously assumed structure",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "qno": 10,
+            "statement": "Which of the following visualization techniques can be used for measuring predictive performance of a model?",
+            "options": [
+                {
+                    "value": "Decile chart",
+                    "is_correct": false
+                },
+                {
+                    "value": "Histogram",
+                    "is_correct": false
+                },
+                {
+                    "value": "Lift curve",
+                    "is_correct": false
+                },
+                {
+                    "value": "Both A and C",
+                    "is_correct": true
+                }
+            ]
+        }
+    ]
+}

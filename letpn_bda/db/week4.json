@@ -1,0 +1,225 @@
+{
+    "week": 4,
+    "qustions": [
+        {
+            "qno": 1,
+            "statement": "Which of the following metrics measures the \u00e2\u20ac\u02dcgoodness of fit\u00e2\u20ac\u2122 of a regression model?",
+            "options": [
+                {
+                    "value": "Mean absolute deviation",
+                    "is_correct": false
+                },
+                {
+                    "value": "Root mean squared error",
+                    "is_correct": false
+                },
+                {
+                    "value": "R-squared",
+                    "is_correct": true
+                },
+                {
+                    "value": "The total sum of squared errors",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 2,
+            "statement": "Which statement about outliers is true?",
+            "options": [
+                {
+                    "value": "Outliers should be identified and removed from a dataset.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Outliers should be part of the training dataset but should not be present in the test data.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Outliers should be part of the test dataset but should not be present in the training data.",
+                    "is_correct": false
+                },
+                {
+                    "value": "The nature of the problem determines how outliers are used.",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "qno": 3,
+            "statement": "The average positive difference between computed and desired outcome values.",
+            "options": [
+                {
+                    "value": "Root mean squared error",
+                    "is_correct": false
+                },
+                {
+                    "value": "Mean squared error",
+                    "is_correct": false
+                },
+                {
+                    "value": "Mean absolute error",
+                    "is_correct": true
+                },
+                {
+                    "value": "Mean positive error",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 4,
+            "statement": "Which of the following is a common use of unsupervised clustering?",
+            "options": [
+                {
+                    "value": "Detect outliers",
+                    "is_correct": false
+                },
+                {
+                    "value": "Determine a best set of input attributes for supervised learning",
+                    "is_correct": false
+                },
+                {
+                    "value": "Determine if meaningful relationships can be found in a dataset",
+                    "is_correct": false
+                },
+                {
+                    "value": "All of a, b, and c are common uses of unsupervised clustering.",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "qno": 5,
+            "statement": "What are the axes of an ROC curve?",
+            "options": [
+                {
+                    "value": "Vertical axis: % of true negatives; Horizontal axis: % of false negatives",
+                    "is_correct": false
+                },
+                {
+                    "value": "Vertical axis: % of true positives; Horizontal axis: % of false positives",
+                    "is_correct": true
+                },
+                {
+                    "value": "Vertical axis: % of false negatives; Horizontal axis: % of false positives",
+                    "is_correct": false
+                },
+                {
+                    "value": "Vertical axis: % of false positives; Horizontal axis: % of true negatives",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 6,
+            "statement": "When or why should we use oversampling?",
+            "options": [
+                {
+                    "value": "When the cost of failing rare events are low.",
+                    "is_correct": false
+                },
+                {
+                    "value": "To de-emphasize rare events to the learning algorithm",
+                    "is_correct": false
+                },
+                {
+                    "value": "When a dataset used for learning a predictive model for a binary response variable includes significantly more items with one choice of response than the other choice, and we seek to accurately predict both the choices.",
+                    "is_correct": true
+                },
+                {
+                    "value": "When a dataset used for learning a predictive model, for a binary response variable includes roughly the same number of items for each choice.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 7,
+            "statement": "In a military application domain, suppose we build a classifier for screening of terrorists (True means action has to be taken). Suppose that the confusion matrix is from testing the classifier on some test data. Which of the following situations would you like your classifier to have?",
+            "options": [
+                {
+                    "value": "FP >> FN",
+                    "is_correct": true
+                },
+                {
+                    "value": "FN >> FP",
+                    "is_correct": false
+                },
+                {
+                    "value": "FN = FP \u00c3\u2014 TP",
+                    "is_correct": false
+                },
+                {
+                    "value": "TN >> FP",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 8,
+            "statement": "Which is not included as a step when partitioning is done with oversampling.",
+            "options": [
+                {
+                    "value": "Randomly select class 0 records to maintain the original ratio of class 0 to class 1 records for validation partition.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Randomly select class 0 records for training partition equal to no. of class 1 records.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Half the records from class 1 stratum are randomly selected into training partition.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Validate the models using the training set of class 0 to class 1 to maintain the accuracy of class 0 to class 1.",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "qno": 9,
+            "statement": "Which statement is true about prediction problems?",
+            "options": [
+                {
+                    "value": "The output attribute must be categorical.",
+                    "is_correct": false
+                },
+                {
+                    "value": "The output attribute must be numeric.",
+                    "is_correct": false
+                },
+                {
+                    "value": "The resultant model is designed to determine future outcomes.",
+                    "is_correct": true
+                },
+                {
+                    "value": "The resultant model is designed to classify current behavior.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 10,
+            "statement": "Why is asymmetric misclassification error considered as a part of performance metrics?",
+            "options": [
+                {
+                    "value": "It changes the rule of classification, the cut off value in every field can be synchronised in that manner.",
+                    "is_correct": false
+                },
+                {
+                    "value": "It shows the scenario of costs with analysing data, which can minimize loss and maximize profits.",
+                    "is_correct": true
+                },
+                {
+                    "value": "It enhances the values for prediction, so accuracy increases averaging the error pruned through the datasets. ",
+                    "is_correct": false
+                },
+                {
+                    "value": "It represents the processed data, that can be collected and models and various data visualization techniques can be applied.",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

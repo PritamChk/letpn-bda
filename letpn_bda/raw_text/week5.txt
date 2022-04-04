@@ -1,0 +1,60 @@
+Choose the correct statement with respect to prediction performance:
+The focus is on continuous outcome variable
+The focus is on categorical outcome variable
+Prediction performance is same as classification performance
+All of the above 
+The focus is on continuous outcome variable
+Consider the following statements and choose the correct option: Statement I: ‘Goodness of fit’ focuses on how well the model fits the data Statement II: The model obtained in data mining is certainly same as the one obtained in statistical setting
+Only statement I is correct
+Only statement II is correct
+Both the statements are correct
+None of the statement are correct
+Only statement I is correct
+In data mining modelling, prediction error is typically computed on:
+Training partition
+Validation partition
+Test partition
+None of the above
+Validation partition
+If the overall average error is negative, what does it indicate?
+On an average level, the model is over predicting the observations
+On an average level, the model is under predicting the observations
+On an average level, the model has less impact on predicting the observations
+The model has no impact on predicting the observations
+On an average level, the model is under predicting the observations
+Consider the following statements and choose the correct option: Assertion: RMSE is one of the most preferred metrics of predictive accuracy Reasoning: It is computed in the same unit as the outcome variable and similar to the standard error of estimate
+Assertion is correct and reasoning gives the correct explanation
+Assertion is correct but reasoning does not give the correct explanation
+Assertion is incorrect but reasoning is correct
+Both assertion and reasoning are incorrect
+Assertion is correct and reasoning gives the correct explanation
+Predictive modelling in multiple linear regression is:
+Used to estimate best-fit model
+Used to estimate values of outcome variable for new records
+More emphasized in statistical setting
+Prediction performance is of secondary importance
+Used to estimate values of outcome variable for new records
+Select the correct option:
+OLS computes the sample estimates which minimizes the sum of deviations between predicted and actual values
+OLS computes the sample estimates which maximizes the sum of deviations between predicted and actual values
+OLS computes the sample estimates which minimizes the sum of squared deviation between predicted and actual values
+OLS computes the sample estimates which maximizes the sum of squared deviation between predicted and actual values
+OLS computes the sample estimates which minimizes the sum of squared deviation between predicted and actual values
+Which of the following assumptions of multiple linear regression can be relaxed in data mining?
+Noise follows a normal distribution
+Observations are independent
+Linear relationship holds true
+Heteroscedasticity 
+Noise follows a normal distribution
+Which among the following statements is incorrect with respect to explanatory modeling?
+The final model selected may not have the best predictive accuracy
+Full sample is used to estimate the final model
+More suitable for statistical modelling
+There is no previously assumed structure
+There is no previously assumed structure
+Which of the following visualization techniques can be used for measuring predictive performance of a model?
+Decile chart
+Histogram
+Lift curve
+Both A and C
+Both A and C

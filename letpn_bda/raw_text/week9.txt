@@ -1,0 +1,60 @@
+What is the the range of Gini value for 2-class scenario?
+{0, 0.5} 
+{0, (m-1)/m}
+{0, 1}
+{0, m/(m-1)}
+{0, 0.5}
+What is the range of the entropy value for 2-class scenario?
+{0, log2(m)}
+{0, 0.5}
+{0, l}
+None of the above.
+{0, l}
+What is the range of the entropy value for m-class scenario?
+{0, log2(m)}
+{0, l}
+{0, 0.5}
+None of the above.
+{0, log2(m)}
+Like linear regression logistic regression………….
+has one or more independent variables. 
+provides a value directly from an equation for the dependent variable 
+Uses the same method to estimate b weights.
+has a dependent variable.
+has one or more independent variables.
+In a binary case, a cutoff of 0.5 means that cases with an estimated probability of P(Y=1) > 0.5 are classified as belonging to:
+Class 1
+Class 0
+Both A and B
+None of the above
+Class 1
+In logistic regression  
+The model chi square (traditional fit measure/likelihood ratio test) provides information on overall model fit where a significant p value indicates that the current model is a better fit than the previous one.
+The model chi square (traditional fit measure/likelihood ratio test) provides information on overall model fit where a significant p value indicates that the current model is a worse fit than the previous one.
+The model chi square (traditional fit measure/likelihood ratio test) provides information on model fit for a single b coefficient, where a significant p value indicates that the current model is a better fit than the previous one.
+The model chi square (traditional fit measure/likelihood ratio test) provides information on model fit for a single b coefficient, where a insignificant p value indicates that the current model is a better fit than the previous one
+The model chi square (traditional fit measure/likelihood ratio test) provides information on overall model fit where a significant p value indicates that the current model is a better fit than the previous one.
+Which of the following statement(s) can be true post adding a variable in a linear regression model?
+R-Squared and Adjusted R-squared both increase
+R-Squared increases and Adjusted R-squared decreases
+R-Squared decreases and Adjusted R-squared decreases
+R-Squared decreases and Adjusted R-squared increases
+R-Squared and Adjusted R-squared both increase
+Which of the above statement(s) are correct? Suppose you are training a linear regression model. Now consider these points. 1. Overfitting is more likely if we have less data 2. Overfitting is more likely when the hypothesis space is small.
+Both are False
+1 is False and 2 is True
+1 is True and 2 is False
+Both are True
+1 is True and 2 is False
+Regression trees are often used to model _______ data.
+linear
+nonlinear
+categorical
+symmetrical
+nonlinear
+Simple regression assumes a __________ relationship between the input  attribute and output attribute.
+linear
+quadratic
+reciprocal
+inverse
+linear

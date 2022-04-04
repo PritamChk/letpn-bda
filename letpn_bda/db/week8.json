@@ -1,0 +1,225 @@
+{
+    "week": 8,
+    "qustions": [
+        {
+            "qno": 1,
+            "statement": "Pruning of a decision tree utilizes:",
+            "options": [
+                {
+                    "value": "Training partition data",
+                    "is_correct": false
+                },
+                {
+                    "value": "Validation partition data",
+                    "is_correct": true
+                },
+                {
+                    "value": "Test partition data",
+                    "is_correct": false
+                },
+                {
+                    "value": "Any part of the data",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 2,
+            "statement": "Which among the following statements is not true?",
+            "options": [
+                {
+                    "value": "Recursive partitioning results in non-overlapping multi-dimensional rectangles",
+                    "is_correct": false
+                },
+                {
+                    "value": "Recursive partitioning results in smaller and smaller rectangular regions",
+                    "is_correct": false
+                },
+                {
+                    "value": "Recursive partitioning continues till heterogeneous groups are reached",
+                    "is_correct": true
+                },
+                {
+                    "value": "Recursive partitioning results in zero error",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 3,
+            "statement": "If there are 2 classes with equal representation from each class, what will be the range of Gini values?",
+            "options": [
+                {
+                    "value": "{0, 2}",
+                    "is_correct": false
+                },
+                {
+                    "value": "{0, 1}",
+                    "is_correct": false
+                },
+                {
+                    "value": "{-1, 1}",
+                    "is_correct": false
+                },
+                {
+                    "value": "{0, 0.5}",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "qno": 4,
+            "statement": "For \u00e2\u20ac\u02dcn\u00e2\u20ac\u2122 number of decision nodes, how many terminal nodes will be computed in a decision tree?",
+            "options": [
+                {
+                    "value": "n",
+                    "is_correct": false
+                },
+                {
+                    "value": "(n-1)",
+                    "is_correct": false
+                },
+                {
+                    "value": "(n+1)",
+                    "is_correct": true
+                },
+                {
+                    "value": "Can\u00e2\u20ac\u2122t say",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 5,
+            "statement": "Which of the following functions can be used to obtain overlapping observations in training and validation partitions?",
+            "options": [
+                {
+                    "value": "Replace",
+                    "is_correct": false
+                },
+                {
+                    "value": "Intersect",
+                    "is_correct": true
+                },
+                {
+                    "value": "Rpart.control",
+                    "is_correct": false
+                },
+                {
+                    "value": "Split",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 6,
+            "statement": "Which of the following is used as the basis for selecting the split-value of a predictor?",
+            "options": [
+                {
+                    "value": "Snipping",
+                    "is_correct": false
+                },
+                {
+                    "value": "Impurity reduction",
+                    "is_correct": true
+                },
+                {
+                    "value": "Pruning",
+                    "is_correct": false
+                },
+                {
+                    "value": "Overfitting",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 7,
+            "statement": "Decision trees can be used for:",
+            "options": [
+                {
+                    "value": "Classification task only",
+                    "is_correct": false
+                },
+                {
+                    "value": "Prediction task only",
+                    "is_correct": false
+                },
+                {
+                    "value": "Both classification and prediction task",
+                    "is_correct": true
+                },
+                {
+                    "value": "None of the above",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 8,
+            "statement": "Which of the following processes is followed to fit the decision tree to the predictor\u00e2\u20ac\u2122s information and not to the noise?",
+            "options": [
+                {
+                    "value": "Splitting",
+                    "is_correct": false
+                },
+                {
+                    "value": "Pruning",
+                    "is_correct": true
+                },
+                {
+                    "value": "Partitioning",
+                    "is_correct": false
+                },
+                {
+                    "value": "Overfitting",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 9,
+            "statement": "There are 12 students who have taken a test. Out of these 12 students, 9 have passed the test while 3 have failed.  Compute the entropy measure for the above case scenario.",
+            "options": [
+                {
+                    "value": "0.727",
+                    "is_correct": false
+                },
+                {
+                    "value": "1.20",
+                    "is_correct": false
+                },
+                {
+                    "value": "0.189",
+                    "is_correct": false
+                },
+                {
+                    "value": "0.811",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "qno": 10,
+            "statement": "The final nodes of a decision tree corresponding to the final homogenous groups into which the p-space of predictor values is partitioned are termed as:",
+            "options": [
+                {
+                    "value": "Child node",
+                    "is_correct": false
+                },
+                {
+                    "value": "Decision node",
+                    "is_correct": false
+                },
+                {
+                    "value": "Root node",
+                    "is_correct": false
+                },
+                {
+                    "value": "Terminal node",
+                    "is_correct": true
+                }
+            ]
+        }
+    ]
+}

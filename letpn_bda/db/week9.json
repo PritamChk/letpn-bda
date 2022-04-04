@@ -1,0 +1,225 @@
+{
+    "week": 9,
+    "qustions": [
+        {
+            "qno": 1,
+            "statement": "What is the the range of Gini value for 2-class scenario?",
+            "options": [
+                {
+                    "value": "{0, 0.5}",
+                    "is_correct": true
+                },
+                {
+                    "value": "{0, (m-1)/m}",
+                    "is_correct": false
+                },
+                {
+                    "value": "{0, 1}",
+                    "is_correct": false
+                },
+                {
+                    "value": "{0, m/(m-1)}",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 2,
+            "statement": "What is the range of the entropy value for 2-class scenario?",
+            "options": [
+                {
+                    "value": "{0, log2(m)}",
+                    "is_correct": false
+                },
+                {
+                    "value": "{0, 0.5}",
+                    "is_correct": false
+                },
+                {
+                    "value": "{0, l}",
+                    "is_correct": true
+                },
+                {
+                    "value": "None of the above.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 3,
+            "statement": "What is the range of the entropy value for m-class scenario?",
+            "options": [
+                {
+                    "value": "{0, log2(m)}",
+                    "is_correct": true
+                },
+                {
+                    "value": "{0, l}",
+                    "is_correct": false
+                },
+                {
+                    "value": "{0, 0.5}",
+                    "is_correct": false
+                },
+                {
+                    "value": "None of the above.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 4,
+            "statement": "Like linear regression logistic regression\u00e2\u20ac\u00a6\u00e2\u20ac\u00a6\u00e2\u20ac\u00a6\u00e2\u20ac\u00a6.",
+            "options": [
+                {
+                    "value": "has one or more independent variables.",
+                    "is_correct": true
+                },
+                {
+                    "value": "provides a value directly from an equation for the dependent variable",
+                    "is_correct": false
+                },
+                {
+                    "value": "Uses the same method to estimate b weights.",
+                    "is_correct": false
+                },
+                {
+                    "value": "has a dependent variable.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 5,
+            "statement": "In a binary case, a cutoff of 0.5 means that cases with an estimated probability of P(Y=1) > 0.5 are classified as belonging to:",
+            "options": [
+                {
+                    "value": "Class 1",
+                    "is_correct": true
+                },
+                {
+                    "value": "Class 0",
+                    "is_correct": false
+                },
+                {
+                    "value": "Both A and B",
+                    "is_correct": false
+                },
+                {
+                    "value": "None of the above",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 6,
+            "statement": "In logistic regression  ",
+            "options": [
+                {
+                    "value": "The model chi square (traditional fit measure/likelihood ratio test) provides information on overall model fit where a significant p value indicates that the current model is a better fit than the previous one.",
+                    "is_correct": true
+                },
+                {
+                    "value": "The model chi square (traditional fit measure/likelihood ratio test) provides information on overall model fit where a significant p value indicates that the current model is a worse fit than the previous one.",
+                    "is_correct": false
+                },
+                {
+                    "value": "The model chi square (traditional fit measure/likelihood ratio test) provides information on model fit for a single b coefficient, where a significant p value indicates that the current model is a better fit than the previous one.",
+                    "is_correct": false
+                },
+                {
+                    "value": "The model chi square (traditional fit measure/likelihood ratio test) provides information on model fit for a single b coefficient, where a insignificant p value indicates that the current model is a better fit than the previous one",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 7,
+            "statement": "Which of the following statement(s) can be true post adding a variable in a linear regression model?",
+            "options": [
+                {
+                    "value": "R-Squared and Adjusted R-squared both increase",
+                    "is_correct": true
+                },
+                {
+                    "value": "R-Squared increases and Adjusted R-squared decreases",
+                    "is_correct": false
+                },
+                {
+                    "value": "R-Squared decreases and Adjusted R-squared decreases",
+                    "is_correct": false
+                },
+                {
+                    "value": "R-Squared decreases and Adjusted R-squared increases",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 8,
+            "statement": "Which of the above statement(s) are correct? Suppose you are training a linear regression model. Now consider these points. 1. Overfitting is more likely if we have less data 2. Overfitting is more likely when the hypothesis space is small.",
+            "options": [
+                {
+                    "value": "Both are False",
+                    "is_correct": false
+                },
+                {
+                    "value": "1 is False and 2 is True",
+                    "is_correct": false
+                },
+                {
+                    "value": "1 is True and 2 is False",
+                    "is_correct": true
+                },
+                {
+                    "value": "Both are True",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 9,
+            "statement": "Regression trees are often used to model _______ data.",
+            "options": [
+                {
+                    "value": "linear",
+                    "is_correct": false
+                },
+                {
+                    "value": "nonlinear",
+                    "is_correct": true
+                },
+                {
+                    "value": "categorical",
+                    "is_correct": false
+                },
+                {
+                    "value": "symmetrical",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 10,
+            "statement": "Simple regression assumes a __________ relationship between the input  attribute and output attribute.",
+            "options": [
+                {
+                    "value": "linear",
+                    "is_correct": true
+                },
+                {
+                    "value": "quadratic",
+                    "is_correct": false
+                },
+                {
+                    "value": "reciprocal",
+                    "is_correct": false
+                },
+                {
+                    "value": "inverse",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

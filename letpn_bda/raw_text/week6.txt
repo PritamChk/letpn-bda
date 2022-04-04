@@ -1,0 +1,60 @@
+Consider the following statements and choose the correct option: Assertion (S): The value of adjusted R2 is always less than the value of R2 Reason (R): Adjusted R2 accounts for the number of predictors in multiple linear regression model
+Both S and R are true and R is the correct explanation of S
+Both S and R are true but R is not the correct explanation of S
+S is true but R is false
+S is false but R is true
+Both S and R are true and R is the correct explanation of S
+If the structure of the data is complex and irregular, which of the following will be optimum value of ‘k’?
+On the higher side
+On the lower side
+Equal to the total number of observations in the dataset
+The value of ‘k’ has no impact
+On the lower side
+Which of the following statements is incorrect with respect to adjusted R-squared value?
+Higher the number of predictors, higher the adjusted R-squared value
+In a single predictor case, value of adjusted R-squared is equal to squared correlation
+Adjusted R-squared uses a penalty on the number of predictors
+Higher values of adjusted R-square indicate better fit
+Higher the number of predictors, higher the adjusted R-squared value
+Which among the following techniques can be used for variable selection and dimension reduction?
+Exhaustive search
+Partial iterative search
+Both A and B
+None of the above
+Both A and B
+In partial iterative search, which of the following algorithms are begun with the full model?
+Forward selection
+Backward selection
+Exhaustive search
+Stepwise regression
+Backward selection
+Which of the following algorithms overlooks the pairs or groups of predictors that perform well together but perform poorly as single predictors?
+Forward selection
+Backward selection
+Exhaustive search
+Both A and B
+Forward selection
+Compute the Euclidean distance for the following data points with 4 predictors: S(3,5,2,8) and T(1,4,6,2)
+16.15
+7.54
+5
+13
+7.54
+In k-NN technique, which of the following is a limitation of using high value of k? 
+Fitting to local patterns
+Dominance of global effect
+Fitting to noise
+None of the above
+Dominance of global effect
+Which of the following situations is regarded as a naïve rule in k-NN?
+When k =1
+When k >1
+When k =n (where ‘n’ is the number of total observations)
+When 1<k<n (where ‘n’ is the number of total observations)
+When k =n (where ‘n’ is the number of total observations)
+What changes are observed when k-NN is used for prediction task rather than classification task?
+Computation of distance between the new observation and training partition records is different
+Value of new record is determined using weighted average of all the k-nearest records
+Value of new record is determined using weighted average of the records belonging to the dominant class
+Overall misclassification error is used as performance metric
+Value of new record is determined using weighted average of all the k-nearest records

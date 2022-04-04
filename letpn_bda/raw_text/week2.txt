@@ -1,0 +1,60 @@
+Which one of the following is true?
+Raw data is the original source of data.
+Pre-processed data is the original form of data.
+Raw data is the data obtained for processing steps.
+None of the above.
+Raw data is the original source of data.
+Pick the wrong statement:
+Partitioning involves removing biased from the data.
+Evaluation of the test set results in overfitting when the same mode is used.
+Partitioning creates multiple subsets of data used for data visualisation.
+Partition is used for validation to find tune the data and improve the model.
+Partitioning creates multiple subsets of data used for data visualisation.
+Which of the following ae the advantages of the use of final data over pure cross sectional or pure tie series modelling i) Use of final data can increase the number of degrees of freedom and therefore the power of test set. ii) The use of final data allows the average value to vary either cross-sectional or overtime, or both iii) The use of final data, the researcher allows the estimated relationship between the independent and dependent variables to vary either cross-sectional or both.
+i only.
+i and ii only.
+ii only.
+All of the above.
+i and ii only.
+Which of the following data is put into a formula to produce commonly accepted results
+Raw.
+Processed.
+Synchronised.
+All of the above.
+Processed.
+A dependent variable whose values are not observable outside the certain range but where the corresponding values of the independent variables are still available would be most accurately describes as, what kind of variable
+Censored.
+Truncated. 
+Multi nominal variable.
+Discrete choice.
+Censored.
+Data exploration and conditioning phase focuses on
+Plot different interactive visualisations to range the techniques used.
+Formal analyses and free foam filtered data to explore raw conclusions.
+Converting continuous variable into categorical variables for various bin sizes.
+All of the above.
+All of the above.
+What would you use to compare the frequency distributions of more than one set of data?
+Box plots.
+Frequency distribution.
+Frequency polygon.
+Line graph.
+Frequency polygon.
+What is wrong about data visualisation in the following statements?
+Bar graphs are used for time series data.(1)
+Line graphs focusses on outcome variable.(2)
+For supervised learning methods.
+both 1 & 2
+both 1 & 2
+What does a large standard deviation suggest?
+Data and values are widely distributed and that the mean may not be a reliable measure of central tendency.
+The values are not widely distributed and the median would be an unreliable measure of the central tendency.
+Values are not normally distributed.
+All of the measures of central tendency would be reliable.
+Data and values are widely distributed and that the mean may not be a reliable measure of central tendency.
+Histograms, pie charts, and frequency polygon are all types of:
+Two dimension diagram.
+Cumulative diagram
+Dispersion diagram.
+One dimension diagram.
+Two dimension diagram.

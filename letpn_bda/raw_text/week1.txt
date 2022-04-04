@@ -1,0 +1,60 @@
+Classify each of the following as N, nominal, O, ordinal, I/R, interval/ratio data:(1)Pin code of any address (2)Amount of clothes you have (3)Place of your study (4)The last grade you achieved in class (5)Mileage of any car
+I/R, O, N, I/R, I/R.
+N, I/R, N, O, O.
+N, O, N, I/R/ I/R.
+I/R, N, O, I/R, N.
+N, O, N, I/R/ I/R.
+Two variables having r value of 0.01. What things do they suggest?
+They are positively co-related.
+They show causality.
+They are not co-related.
+There is a 7% co-relation.
+They show causality.
+What type of analytics uses statistical and machine learning techniques?
+Decision making.
+Prescriptive.
+Descriptive.
+Predictive.
+Predictive.
+What are the ways to avoid overfitting issues?
+By adding a penalty for every data decreasing the complexity.
+By testing the model with one-third of the training data itself.
+By using the resampling techniques to estimate model accuracy.
+All of the above.
+All of the above.
+Which of the following is not true about unsupervised learning?
+It finds clusters of the data.
+Finding interesting co-relation and coordinates with the data.
+Finding the annotate strings and predicting time series.
+Finding low dimensional representations of data.
+Finding the annotate strings and predicting time series.
+Interviewing all members of a given population is called
+A sample.
+A gall up pole
+Censuses.
+Nielsen audit
+Censuses.
+Which one of the following is the benefit of using simple random sampling?
+Informants won’t refuse to participate.
+Interviewers can choose respondent freely.
+We can calculate the accuracy of the results.
+The results are always representative.
+We can calculate the accuracy of the results.
+What does a dummy variable regression analysis examine?
+Relationship between one continuous dependent and one continuous independent variable.
+Relationship between one categorical dependent and one continuous independent variable.
+Relationship between one continuous dependent and one categorical independent variable.
+Relationship between one continuous dependent and one classified variable.
+Relationship between one continuous dependent and one categorical independent variable.
+What assumptions are made when we use the t-distribution to perform a hypothesis test?
+The underline population has a constant variance.
+The underline population has a non-symmetrical distribution.
+The underline population follows a normal distribution.
+All of the above.
+The underline population has a constant variance.
+Which function used to print all variable names in a data frame df in R?
+names()
+names(df)
+df.names()
+names("df")
+names(df)

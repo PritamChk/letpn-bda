@@ -1,0 +1,225 @@
+{
+    "week": 1,
+    "qustions": [
+        {
+            "qno": 1,
+            "statement": "Classify each of the following as N, nominal, O, ordinal, I/R, interval/ratio data:(1)Pin code of any address (2)Amount of clothes you have (3)Place of your study (4)The last grade you achieved in class (5)Mileage of any car",
+            "options": [
+                {
+                    "value": "I/R, O, N, I/R, I/R.",
+                    "is_correct": false
+                },
+                {
+                    "value": "N, I/R, N, O, O.",
+                    "is_correct": false
+                },
+                {
+                    "value": "N, O, N, I/R/ I/R.",
+                    "is_correct": true
+                },
+                {
+                    "value": "I/R, N, O, I/R, N.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 2,
+            "statement": "Two variables having r value of 0.01. What things do they suggest?",
+            "options": [
+                {
+                    "value": "They are positively co-related.",
+                    "is_correct": false
+                },
+                {
+                    "value": "They show causality.",
+                    "is_correct": true
+                },
+                {
+                    "value": "They are not co-related.",
+                    "is_correct": false
+                },
+                {
+                    "value": "There is a 7% co-relation.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 3,
+            "statement": "What type of analytics uses statistical and machine learning techniques?",
+            "options": [
+                {
+                    "value": "Decision making.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Prescriptive.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Descriptive.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Predictive.",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "qno": 4,
+            "statement": "What are the ways to avoid overfitting issues?",
+            "options": [
+                {
+                    "value": "By adding a penalty for every data decreasing the complexity.",
+                    "is_correct": false
+                },
+                {
+                    "value": "By testing the model with one-third of the training data itself.",
+                    "is_correct": false
+                },
+                {
+                    "value": "By using the resampling techniques to estimate model accuracy.",
+                    "is_correct": false
+                },
+                {
+                    "value": "All of the above.",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "qno": 5,
+            "statement": "Which of the following is not true about unsupervised learning?",
+            "options": [
+                {
+                    "value": "It finds clusters of the data.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Finding interesting co-relation and coordinates with the data.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Finding the annotate strings and predicting time series.",
+                    "is_correct": true
+                },
+                {
+                    "value": "Finding low dimensional representations of data.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 6,
+            "statement": "Interviewing all members of a given population is called",
+            "options": [
+                {
+                    "value": "A sample.",
+                    "is_correct": false
+                },
+                {
+                    "value": "A gall up pole",
+                    "is_correct": false
+                },
+                {
+                    "value": "Censuses.",
+                    "is_correct": true
+                },
+                {
+                    "value": "Nielsen audit",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 7,
+            "statement": "Which one of the following is the benefit of using simple random sampling?",
+            "options": [
+                {
+                    "value": "Informants won\u00e2\u20ac\u2122t refuse to participate.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Interviewers can choose respondent freely.",
+                    "is_correct": false
+                },
+                {
+                    "value": "We can calculate the accuracy of the results.",
+                    "is_correct": true
+                },
+                {
+                    "value": "The results are always representative.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 8,
+            "statement": "What does a dummy variable regression analysis examine?",
+            "options": [
+                {
+                    "value": "Relationship between one continuous dependent and one continuous independent variable.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Relationship between one categorical dependent and one continuous independent variable.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Relationship between one continuous dependent and one categorical independent variable.",
+                    "is_correct": true
+                },
+                {
+                    "value": "Relationship between one continuous dependent and one classified variable.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 9,
+            "statement": "What assumptions are made when we use the t-distribution to perform a hypothesis test?",
+            "options": [
+                {
+                    "value": "The underline population has a constant variance.",
+                    "is_correct": true
+                },
+                {
+                    "value": "The underline population has a non-symmetrical distribution.",
+                    "is_correct": false
+                },
+                {
+                    "value": "The underline population follows a normal distribution.",
+                    "is_correct": false
+                },
+                {
+                    "value": "All of the above.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 10,
+            "statement": "Which function used to print all variable names in a data frame df in R?",
+            "options": [
+                {
+                    "value": "names()",
+                    "is_correct": false
+                },
+                {
+                    "value": "names(df)",
+                    "is_correct": true
+                },
+                {
+                    "value": "df.names()",
+                    "is_correct": false
+                },
+                {
+                    "value": "names(\"df\")",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

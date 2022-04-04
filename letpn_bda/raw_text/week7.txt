@@ -1,0 +1,60 @@
+While classifying a new observation, which technique utilizes the method of finding training partition records that have the same predictor values as the new observation?
+Naïve Bayes
+k-NN
+Complete Bayes
+Multiple linear regression
+Complete Bayes
+Consider the following statements and choose the correct option: Assertion (S): Complete Bayes model is not suitable for prediction task Reason (R): It is difficult to find training records with exact values of predictors as found in the new record to be classified
+Both S and R are true and R is the correct explanation of S
+Both S and R are true but R is not the correct explanation of S
+S is true but R is false
+S is false but R is true
+Both S and R are true and R is the correct explanation of S
+A dataset consists of 800 records of whether a flight was delayed or not due to weather issues (clear weather or bad weather). Out of 800 flights, 600 flights were delayed and 200 flights were on time. Out of the total flights that got delayed, 450 flights faced bad weather. For the remaining flights which were on time, only 25 flights faced bad weather. Compute the conditional probability (exact Bayes) of the flights that got delayed given the weather was clear.
+0.25
+0.46
+0.75
+0.54
+0.46
+Which of the following statements related to Bayes model is incorrect?
+Bayes model is more suitable for classification task rather than prediction task
+When number of predictors is more, Exact Bayes model is more suitable
+It is preferable to use categorical predictors for computing Bayes model
+Numerical predictors are converted into categorical predictors for Bayes model
+When number of predictors is more, Exact Bayes model is more suitable 
+Statement I: Naïve Bayes model is suitable for classification problems. Statement II: The probability values in Naïve Bayes, should be accurate in absolute terms. Which of the following are true?
+Statement I is true and Statement II is false
+Statement II is true and Statement I is false
+Both the statements are true
+Both the statements are false
+Statement I is true and Statement II is false
+Which of the following statements are true with respect to Naïve Bayes model?
+Predictor values must not be independent of each other for a given class
+Absolute accuracy in actual probability values is essential to classify a new record
+Reasonable accuracy in rank ordering of probability values is required to classify a new observation
+Computation of denominator in Naïve Bayes formula impacts the rank ordering of probability values
+Reasonable accuracy in rank ordering of probability values is required to classify a new observation
+In which of the following case is it advisable to misclassify few truthful financial reports as fraudulent reports?
+When the goal is to reduce overall misclassification error
+When the goal is to accurately identify records belonging to a specific class of interest
+When the goal is to maximize overall classification accuracy
+None of the above
+When the goal is to accurately identify records belonging to a specific class of interest
+For identifying maximum records belonging to a specific class of interest, the cut-off value is typically set at:
+Below 0.5
+Above 0.5
+Equal to 0.5
+None of the above
+Below 0.5
+Which of the following tools are suitable for computing conditional probability?
+Solver
+Pivot Table
+Conditional Formatting
+Bar chart
+Pivot Table
+Which among the following is a limitation of Naïve Bayes method?
+Performs better with classification or ranking of records
+Estimation of actual probabilities of a class
+Requires large number of records to obtain good results
+All of the above
+All of the above

@@ -1,0 +1,60 @@
+Type of classification in which class is subdivided into sub classes and subclasses are divided into more classes is considered as 
+Simple classification.
+Manifold classification.
+Rational classification.
+Reflected classification.
+Manifold classification.
+What is not true about multi-dimensional visualisation?
+Quick access to relevant business insights.
+Disintegration of data and latest trends.
+Sales analysis prediction figures.
+None of the above.
+Disintegration of data and latest trends.
+Which of the following techniques would perform better for reducing dimension of a data set?
+Remaining columns which have too many missing values.
+Remaining columns with dissimilar data trends.
+Removing columns which have high variance in data.
+None of the above.
+Remaining columns which have too many missing values.
+The most popularly dimensionality reduction algorithm/technique is principal component analysis (PCA). Which of the following is/are true about PCA? I: PCA is supervised value. (II): It searches for the directions that data have the largest variance. (III): Maximum number of principal components is equal to number of features. (IV): All principal components are orthogonal to each other.
+I and II
+I, II and IV
+II and III
+All of the above
+All of the above
+Dimension Reduction techniques consists of: (I): Domain Knowledge (II): Data Exploration techniques (III): Data Conversion techniques (IV): Automated conversion techniques (V): Data mining techniques
+II, IV and V
+I, III and IV
+I, IV and V
+All of the above
+All of the above
+Consider the following image, which of the following is/are example of multi-collinear features:
+Features in image 1
+Features in image 3
+Features in image 2&3
+Features in image 1&2
+Features in image 1&2
+Adding a non-important feature to a linear regression model may result in -[ Statement I: Increase R-square ] [ Statement II: Decrease R-square ]
+Only statement I is correct
+Only statement II is correct
+None of these
+Either statement I or II
+Only statement I is correct
+Which of them is the best considered for prediction?
+Linear regression
+Logistic regression
+CART
+Naïve Bayes
+Naïve Bayes
+Correlation analysis is used to
+Simultaneously compare the effect of multiple independent variables on a dependent variable.
+Predict values of y based on value of x.
+Measure the strength of association between two variables
+All of the above
+Measure the strength of association between two variables
+The degree of linear association between two metric scaled variables is measured by
+Pearson correlation coefficient
+Significance level
+Analysis of variance
+β
+Pearson correlation coefficient

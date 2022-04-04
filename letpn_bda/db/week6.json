@@ -1,0 +1,225 @@
+{
+    "week": 6,
+    "qustions": [
+        {
+            "qno": 1,
+            "statement": "Consider the following statements and choose the correct option: Assertion (S): The value of adjusted R2 is always less than the value of R2 Reason (R): Adjusted R2 accounts for the number of predictors in multiple linear regression model",
+            "options": [
+                {
+                    "value": "Both S and R are true and R is the correct explanation of S",
+                    "is_correct": true
+                },
+                {
+                    "value": "Both S and R are true but R is not the correct explanation of S",
+                    "is_correct": false
+                },
+                {
+                    "value": "S is true but R is false",
+                    "is_correct": false
+                },
+                {
+                    "value": "S is false but R is true",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 2,
+            "statement": "If the structure of the data is complex and irregular, which of the following will be optimum value of \u00e2\u20ac\u02dck\u00e2\u20ac\u2122?",
+            "options": [
+                {
+                    "value": "On the higher side",
+                    "is_correct": false
+                },
+                {
+                    "value": "On the lower side",
+                    "is_correct": true
+                },
+                {
+                    "value": "Equal to the total number of observations in the dataset",
+                    "is_correct": false
+                },
+                {
+                    "value": "The value of \u00e2\u20ac\u02dck\u00e2\u20ac\u2122 has no impact",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 3,
+            "statement": "Which of the following statements is incorrect with respect to adjusted R-squared value?",
+            "options": [
+                {
+                    "value": "Higher the number of predictors, higher the adjusted R-squared value",
+                    "is_correct": true
+                },
+                {
+                    "value": "In a single predictor case, value of adjusted R-squared is equal to squared correlation",
+                    "is_correct": false
+                },
+                {
+                    "value": "Adjusted R-squared uses a penalty on the number of predictors",
+                    "is_correct": false
+                },
+                {
+                    "value": "Higher values of adjusted R-square indicate better fit",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 4,
+            "statement": "Which among the following techniques can be used for variable selection and dimension reduction?",
+            "options": [
+                {
+                    "value": "Exhaustive search",
+                    "is_correct": false
+                },
+                {
+                    "value": "Partial iterative search",
+                    "is_correct": false
+                },
+                {
+                    "value": "Both A and B",
+                    "is_correct": true
+                },
+                {
+                    "value": "None of the above",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 5,
+            "statement": "In partial iterative search, which of the following algorithms are begun with the full model?",
+            "options": [
+                {
+                    "value": "Forward selection",
+                    "is_correct": false
+                },
+                {
+                    "value": "Backward selection",
+                    "is_correct": true
+                },
+                {
+                    "value": "Exhaustive search",
+                    "is_correct": false
+                },
+                {
+                    "value": "Stepwise regression",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 6,
+            "statement": "Which of the following algorithms overlooks the pairs or groups of predictors that perform well together but perform poorly as single predictors?",
+            "options": [
+                {
+                    "value": "Forward selection",
+                    "is_correct": true
+                },
+                {
+                    "value": "Backward selection",
+                    "is_correct": false
+                },
+                {
+                    "value": "Exhaustive search",
+                    "is_correct": false
+                },
+                {
+                    "value": "Both A and B",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 7,
+            "statement": "Compute the Euclidean distance for the following data points with 4 predictors: S(3,5,2,8) and T(1,4,6,2)",
+            "options": [
+                {
+                    "value": "16.15",
+                    "is_correct": false
+                },
+                {
+                    "value": "7.54",
+                    "is_correct": true
+                },
+                {
+                    "value": "5",
+                    "is_correct": false
+                },
+                {
+                    "value": "13",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 8,
+            "statement": "In k-NN technique, which of the following is a limitation of using high value of k? ",
+            "options": [
+                {
+                    "value": "Fitting to local patterns",
+                    "is_correct": false
+                },
+                {
+                    "value": "Dominance of global effect",
+                    "is_correct": true
+                },
+                {
+                    "value": "Fitting to noise",
+                    "is_correct": false
+                },
+                {
+                    "value": "None of the above",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 9,
+            "statement": "Which of the following situations is regarded as a na\u00c3\u00afve rule in k-NN?",
+            "options": [
+                {
+                    "value": "When k =1",
+                    "is_correct": false
+                },
+                {
+                    "value": "When k >1",
+                    "is_correct": false
+                },
+                {
+                    "value": "When k =n (where \u00e2\u20ac\u02dcn\u00e2\u20ac\u2122 is the number of total observations)",
+                    "is_correct": true
+                },
+                {
+                    "value": "When 1<k<n (where \u00e2\u20ac\u02dcn\u00e2\u20ac\u2122 is the number of total observations)",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 10,
+            "statement": "What changes are observed when k-NN is used for prediction task rather than classification task?",
+            "options": [
+                {
+                    "value": "Computation of distance between the new observation and training partition records is different",
+                    "is_correct": false
+                },
+                {
+                    "value": "Value of new record is determined using weighted average of all the k-nearest records",
+                    "is_correct": true
+                },
+                {
+                    "value": "Value of new record is determined using weighted average of the records belonging to the dominant class",
+                    "is_correct": false
+                },
+                {
+                    "value": "Overall misclassification error is used as performance metric",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

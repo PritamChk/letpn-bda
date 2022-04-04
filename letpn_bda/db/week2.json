@@ -1,0 +1,225 @@
+{
+    "week": 2,
+    "qustions": [
+        {
+            "qno": 1,
+            "statement": "Which one of the following is true?",
+            "options": [
+                {
+                    "value": "Raw data is the original source of data.",
+                    "is_correct": true
+                },
+                {
+                    "value": "Pre-processed data is the original form of data.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Raw data is the data obtained for processing steps.",
+                    "is_correct": false
+                },
+                {
+                    "value": "None of the above.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 2,
+            "statement": "Pick the wrong statement:",
+            "options": [
+                {
+                    "value": "Partitioning involves removing biased from the data.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Evaluation of the test set results in overfitting when the same mode is used.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Partitioning creates multiple subsets of data used for data visualisation.",
+                    "is_correct": true
+                },
+                {
+                    "value": "Partition is used for validation to find tune the data and improve the model.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 3,
+            "statement": "Which of the following ae the advantages of the use of final data over pure cross sectional or pure tie series modelling i) Use of final data can increase the number of degrees of freedom and therefore the power of test set. ii) The use of final data allows the average value to vary either cross-sectional or overtime, or both iii) The use of final data, the researcher allows the estimated relationship between the independent and dependent variables to vary either cross-sectional or both.",
+            "options": [
+                {
+                    "value": "i only.",
+                    "is_correct": false
+                },
+                {
+                    "value": "i and ii only.",
+                    "is_correct": true
+                },
+                {
+                    "value": "ii only.",
+                    "is_correct": false
+                },
+                {
+                    "value": "All of the above.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 4,
+            "statement": "Which of the following data is put into a formula to produce commonly accepted results",
+            "options": [
+                {
+                    "value": "Raw.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Processed.",
+                    "is_correct": true
+                },
+                {
+                    "value": "Synchronised.",
+                    "is_correct": false
+                },
+                {
+                    "value": "All of the above.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 5,
+            "statement": "A dependent variable whose values are not observable outside the certain range but where the corresponding values of the independent variables are still available would be most accurately describes as, what kind of variable",
+            "options": [
+                {
+                    "value": "Censored.",
+                    "is_correct": true
+                },
+                {
+                    "value": "Truncated. ",
+                    "is_correct": false
+                },
+                {
+                    "value": "Multi nominal variable.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Discrete choice.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 6,
+            "statement": "Data exploration and conditioning phase focuses on",
+            "options": [
+                {
+                    "value": "Plot different interactive visualisations to range the techniques used.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Formal analyses and free foam filtered data to explore raw conclusions.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Converting continuous variable into categorical variables for various bin sizes.",
+                    "is_correct": false
+                },
+                {
+                    "value": "All of the above.",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "qno": 7,
+            "statement": "What would you use to compare the frequency distributions of more than one set of data?",
+            "options": [
+                {
+                    "value": "Box plots.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Frequency distribution.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Frequency polygon.",
+                    "is_correct": true
+                },
+                {
+                    "value": "Line graph.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 8,
+            "statement": "What is wrong about data visualisation in the following statements?",
+            "options": [
+                {
+                    "value": "Bar graphs are used for time series data.(1)",
+                    "is_correct": false
+                },
+                {
+                    "value": "Line graphs focusses on outcome variable.(2)",
+                    "is_correct": false
+                },
+                {
+                    "value": "For supervised learning methods.",
+                    "is_correct": false
+                },
+                {
+                    "value": "both 1 & 2",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "qno": 9,
+            "statement": "What does a large standard deviation suggest?",
+            "options": [
+                {
+                    "value": "Data and values are widely distributed and that the mean may not be a reliable measure of central tendency.",
+                    "is_correct": true
+                },
+                {
+                    "value": "The values are not widely distributed and the median would be an unreliable measure of the central tendency.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Values are not normally distributed.",
+                    "is_correct": false
+                },
+                {
+                    "value": "All of the measures of central tendency would be reliable.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 10,
+            "statement": "Histograms, pie charts, and frequency polygon are all types of:",
+            "options": [
+                {
+                    "value": "Two dimension diagram.",
+                    "is_correct": true
+                },
+                {
+                    "value": "Cumulative diagram",
+                    "is_correct": false
+                },
+                {
+                    "value": "Dispersion diagram.",
+                    "is_correct": false
+                },
+                {
+                    "value": "One dimension diagram.",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

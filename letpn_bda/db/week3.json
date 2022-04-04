@@ -1,0 +1,225 @@
+{
+    "week": 3,
+    "qustions": [
+        {
+            "qno": 1,
+            "statement": "Type of classification in which class is subdivided into sub classes and subclasses are divided into more classes is considered as ",
+            "options": [
+                {
+                    "value": "Simple classification.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Manifold classification.",
+                    "is_correct": true
+                },
+                {
+                    "value": "Rational classification.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Reflected classification.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 2,
+            "statement": "What is not true about multi-dimensional visualisation?",
+            "options": [
+                {
+                    "value": "Quick access to relevant business insights.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Disintegration of data and latest trends.",
+                    "is_correct": true
+                },
+                {
+                    "value": "Sales analysis prediction figures.",
+                    "is_correct": false
+                },
+                {
+                    "value": "None of the above.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 3,
+            "statement": "Which of the following techniques would perform better for reducing dimension of a data set?",
+            "options": [
+                {
+                    "value": "Remaining columns which have too many missing values.",
+                    "is_correct": true
+                },
+                {
+                    "value": "Remaining columns with dissimilar data trends.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Removing columns which have high variance in data.",
+                    "is_correct": false
+                },
+                {
+                    "value": "None of the above.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 4,
+            "statement": "The most popularly dimensionality reduction algorithm/technique is principal component analysis (PCA). Which of the following is/are true about PCA? I: PCA is supervised value. (II): It searches for the directions that data have the largest variance. (III): Maximum number of principal components is equal to number of features. (IV): All principal components are orthogonal to each other.",
+            "options": [
+                {
+                    "value": "I and II",
+                    "is_correct": false
+                },
+                {
+                    "value": "I, II and IV",
+                    "is_correct": false
+                },
+                {
+                    "value": "II and III",
+                    "is_correct": false
+                },
+                {
+                    "value": "All of the above",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "qno": 5,
+            "statement": "Dimension Reduction techniques consists of: (I): Domain Knowledge (II): Data Exploration techniques (III): Data Conversion techniques (IV): Automated conversion techniques (V): Data mining techniques",
+            "options": [
+                {
+                    "value": "II, IV and V",
+                    "is_correct": false
+                },
+                {
+                    "value": "I, III and IV",
+                    "is_correct": false
+                },
+                {
+                    "value": "I, IV and V",
+                    "is_correct": false
+                },
+                {
+                    "value": "All of the above",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "qno": 6,
+            "statement": "Consider the following image, which of the following is/are example of multi-collinear features:",
+            "options": [
+                {
+                    "value": "Features in image 1",
+                    "is_correct": false
+                },
+                {
+                    "value": "Features in image 3",
+                    "is_correct": false
+                },
+                {
+                    "value": "Features in image 2&3",
+                    "is_correct": false
+                },
+                {
+                    "value": "Features in image 1&2",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "qno": 7,
+            "statement": "Adding a non-important feature to a linear regression model may result in -[ Statement I: Increase R-square ] [ Statement II: Decrease R-square ]",
+            "options": [
+                {
+                    "value": "Only statement I is correct",
+                    "is_correct": true
+                },
+                {
+                    "value": "Only statement II is correct",
+                    "is_correct": false
+                },
+                {
+                    "value": "None of these",
+                    "is_correct": false
+                },
+                {
+                    "value": "Either statement I or II",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 8,
+            "statement": "Which of them is the best considered for prediction?",
+            "options": [
+                {
+                    "value": "Linear regression",
+                    "is_correct": false
+                },
+                {
+                    "value": "Logistic regression",
+                    "is_correct": false
+                },
+                {
+                    "value": "CART",
+                    "is_correct": false
+                },
+                {
+                    "value": "Na\u00c3\u00afve Bayes",
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "qno": 9,
+            "statement": "Correlation analysis is used to",
+            "options": [
+                {
+                    "value": "Simultaneously compare the effect of multiple independent variables on a dependent variable.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Predict values of y based on value of x.",
+                    "is_correct": false
+                },
+                {
+                    "value": "Measure the strength of association between two variables",
+                    "is_correct": true
+                },
+                {
+                    "value": "All of the above",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "qno": 10,
+            "statement": "The degree of linear association between two metric scaled variables is measured by",
+            "options": [
+                {
+                    "value": "Pearson correlation coefficient",
+                    "is_correct": true
+                },
+                {
+                    "value": "Significance level",
+                    "is_correct": false
+                },
+                {
+                    "value": "Analysis of variance",
+                    "is_correct": false
+                },
+                {
+                    "value": "\u00ce\u00b2",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

@@ -25,7 +25,7 @@ def generate_combo() -> list[int, int]:
         this generates combination like [1,3],[2,3]
     """
     rnd.seed(time.time())
-    week = rnd.randint(1, 9)  # TODO: Change 9 -> 12
+    week = rnd.randint(1, 10)  # TODO: Change 10 -> 12
     qus_num = rnd.randint(1, 10)
     combo = [week, qus_num]
     return combo

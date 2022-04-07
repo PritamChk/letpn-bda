@@ -226,6 +226,231 @@
             ]
         },
         {
+            "week": 10,
+            "qustions": [
+                {
+                    "qno": 1,
+                    "statement": "The application of logistics regression is suitable for:",
+                    "options": [
+                        {
+                            "value": "Profiling",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Classification",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Both of them",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "None of the above",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 2,
+                    "statement": "Which of the following methods do we use to best fit the data in Logistic Regression?",
+                    "options": [
+                        {
+                            "value": "Least Square Error",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Maximum Likelihood",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Jaccard distance",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Both \u2018a\u2019 and \u2018b\u2019",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 3,
+                    "statement": "Logistic regression is used to predict _________ valued output?",
+                    "options": [
+                        {
+                            "value": "Continuous",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Discrete",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Both of them",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the above",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 4,
+                    "statement": "Which of the following is true regarding the logistic function for any value \u201cx\u201d? [Logistic(x): is a logistic function of any number \u201cx\u201d] [Logit(x): is a logit function of any number \u201cx\u201d] [Logit_inv(x): is a inverse logit function of any number \u201cx\u201d]",
+                    "options": [
+                        {
+                            "value": "Logistic(x) = Logit(x)",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Logistic(x) = Logit_inv(x)",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Logit_inv(x) = Logit(x)",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of these",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 5,
+                    "statement": "Consider a following model for logistic regression: P (y =1|x, w)= g(w0 + w1x) where g(z) is the logistic function. What would be the range of P in such case?",
+                    "options": [
+                        {
+                            "value": "(-inf, 0)",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "(0, 1)",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "(-inf, inf)",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "(0, inf)",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 6,
+                    "statement": "The logit function (given as l(x)) is the log of odds function. What could be the range of logit function in the domain x=[0,1]?",
+                    "options": [
+                        {
+                            "value": "(-inf, 0)",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "(0, 1)",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "(-inf, inf)",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "(0, inf)",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 7,
+                    "statement": "In binary logistic regression:",
+                    "options": [
+                        {
+                            "value": "The dependent variable is continuous.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "The dependent variable is divided into two equal subcategories.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "The dependent variable consists of two categories.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "There is no dependent variable.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 8,
+                    "statement": "Large values of the log-likelihood statistic indicate:",
+                    "options": [
+                        {
+                            "value": "That there are a greater number of explained vs. unexplained observations.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "That the statistical model fits the data well.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "That as the predictor variable increases, the likelihood of the outcome occurring decreases.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "That the statistical model is a poor fit of the data.",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 9,
+                    "statement": "Which one of the following statements is true in the case of logistic regression? ",
+                    "options": [
+                        {
+                            "value": "The -2log(likelihood) is a measure of lack of  fit for the logistic model, the smaller the value the poorer the fit between the observed data and the model.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "The -2log(likelihood) is a measure of lack of  fit of a single b coefficient, the smaller the value the poorer the fit between the observed data and the model.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "The -2log(likelihood) is a measure of goodness of fit of the logistic model, the smaller the value the closer the fit between the observed data and the model.",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "The -2log(likelihood) is a measure of goodness of fit of a single b coefficient, the smaller the value the closer the fit between the observed data and the model.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 10,
+                    "statement": "The logit is:",
+                    "options": [
+                        {
+                            "value": "an instruction to record the data",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "the cube root of the sample size",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "the natural logarithm of the odds ratio",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "a logarithm of a digit",
+                            "is_correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "week": 2,
             "qustions": [
                 {

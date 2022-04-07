@@ -1,0 +1,60 @@
+The application of logistics regression is suitable for:
+Profiling
+Classification
+Both of them
+None of the above
+Both of them
+Which of the following methods do we use to best fit the data in Logistic Regression?
+Least Square Error
+Maximum Likelihood
+Jaccard distance
+Both ‘a’ and ‘b’
+Maximum Likelihood
+Logistic regression is used to predict _________ valued output?
+Continuous
+Discrete
+Both of them
+None of the above
+Discrete
+Which of the following is true regarding the logistic function for any value “x”? [Logistic(x): is a logistic function of any number “x”] [Logit(x): is a logit function of any number “x”] [Logit_inv(x): is a inverse logit function of any number “x”]
+Logistic(x) = Logit(x)
+Logistic(x) = Logit_inv(x)
+Logit_inv(x) = Logit(x)
+None of these
+Logistic(x) = Logit_inv(x)
+Consider a following model for logistic regression: P (y =1|x, w)= g(w0 + w1x) where g(z) is the logistic function. What would be the range of P in such case?
+(-inf, 0)
+(0, 1)
+(-inf, inf)
+(0, inf)
+(0, 1)
+The logit function (given as l(x)) is the log of odds function. What could be the range of logit function in the domain x=[0,1]?
+(-inf, 0)
+(0, 1)
+(-inf, inf)
+(0, inf)
+(-inf, inf)
+In binary logistic regression:
+The dependent variable is continuous.
+The dependent variable is divided into two equal subcategories.
+The dependent variable consists of two categories.
+There is no dependent variable.
+The dependent variable consists of two categories.
+Large values of the log-likelihood statistic indicate:
+That there are a greater number of explained vs. unexplained observations.
+That the statistical model fits the data well.
+That as the predictor variable increases, the likelihood of the outcome occurring decreases.
+That the statistical model is a poor fit of the data.
+That the statistical model is a poor fit of the data.
+Which one of the following statements is true in the case of logistic regression? 
+The -2log(likelihood) is a measure of lack of  fit for the logistic model, the smaller the value the poorer the fit between the observed data and the model.
+The -2log(likelihood) is a measure of lack of  fit of a single b coefficient, the smaller the value the poorer the fit between the observed data and the model.
+The -2log(likelihood) is a measure of goodness of fit of the logistic model, the smaller the value the closer the fit between the observed data and the model.
+The -2log(likelihood) is a measure of goodness of fit of a single b coefficient, the smaller the value the closer the fit between the observed data and the model.
+The -2log(likelihood) is a measure of goodness of fit of the logistic model, the smaller the value the closer the fit between the observed data and the model.
+The logit is:
+an instruction to record the data
+the cube root of the sample size
+the natural logarithm of the odds ratio
+a logarithm of a digit
+the natural logarithm of the odds ratio

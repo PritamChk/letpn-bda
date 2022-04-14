@@ -45,13 +45,13 @@ def join_weeks(
 @app.command()
 def startquiz(
         name: str = t.Option("Hola", prompt="Write Your Name"),
-        week_no: int = t.Option(rnd.randint(1, 10)  # TODO change 10 to 12
+        week_no: int = t.Option(rnd.randint(1, 11)  # TODO change 11 to 12
                                 , "--week-no", "-n", min=1, max=12,
                                 help="by default 1 and range  [ 1<=x<=12 ]"),
         weekly: bool = t.Option(
             True, "--weekly/--random", "-w/-r", help="If True then qus given weekly else taken randomly from any week"),
         no_qus: int = t.Option(10, '--no-qus', "-q", min=3,
-                               max=100,  # TODO: change 100 -> 120
+                               max=110,  # TODO: change 110 -> 120
                                help="This is applicable for Random Quiz")
 ):
     """

@@ -130,6 +130,7 @@ def startquiz(
         show_result(attempted_qus, total_marks, 10)
     else:
         json_db_file_path = BASEDIR/"quiz_data.json"
+        # json_db_file_path = os.path.join(BASEDIR,'letpn_bda',"quiz_data.json")
         # json_data = {}
         with open(json_db_file_path, "r") as file:
             json_data = json.load(file)

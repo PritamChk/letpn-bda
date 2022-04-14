@@ -451,6 +451,231 @@
             ]
         },
         {
+            "week": 11,
+            "qustions": [
+                {
+                    "qno": 1,
+                    "statement": "What is back propagation?",
+                    "options": [
+                        {
+                            "value": "It is another name given to the curvy function in the perceptron",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "It is the transmission of error back through the network to adjust the inputs",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "It is the transmission of error back through the network to allow weights to be adjusted so that the network can learn",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "None of the mentioned",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 2,
+                    "statement": "Neural Networks are complex ______________ with many parameters.",
+                    "options": [
+                        {
+                            "value": "Linear Functions",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Nonlinear Functions",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Discrete Functions",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Exponential Functions",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 3,
+                    "statement": "Which of the following is an application of NN (Neural Network)?",
+                    "options": [
+                        {
+                            "value": "Sales forecasting",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Data validation",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Risk management",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "All of the mentioned",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 4,
+                    "statement": "What is the advantage of basis function over mutilayer feedforward neural networks (MLFFNN)?",
+                    "options": [
+                        {
+                            "value": "Training of basis function is faster than MLFFNN",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Training of basis function is slower than MLFFNN",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Storing in basis function is faster than MLFFNN",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the mentioned",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 5,
+                    "statement": "What consist of a basic counterpropagation network?",
+                    "options": [
+                        {
+                            "value": "A feedforward network only",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "A feedforward network with hidden layer",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Two feedforward network with hidden layer",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "None of the mentioned",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 6,
+                    "statement": "What is true regarding backpropagation rule?",
+                    "options": [
+                        {
+                            "value": "It is also called generalized delta rule",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Error in output is propagated backwards only to determine weight updates",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "There is no feedback of signal at any stage",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "All of the mentioned",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 7,
+                    "statement": "A perceptron is a --------------------------------.",
+                    "options": [
+                        {
+                            "value": "Feed-forward neural network",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Back-propagation alogorithm",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Back-tracking algorithm",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Feed Forward-backward algorithm",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 8,
+                    "statement": "The network that involves backward links from output to the input and hidden layers is called as ____",
+                    "options": [
+                        {
+                            "value": "Self organizing maps",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Perceptrons",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Recurrent neural network",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Multi layered perceptron",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 9,
+                    "statement": "Which of the following statement are true?",
+                    "options": [
+                        {
+                            "value": "Feedforward networks are also used for autoassociation & pattern storage",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Feedback networks are also used for autoassociation & pattern storage",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Both of them",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the above",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 10,
+                    "statement": "What is transfer function?",
+                    "options": [
+                        {
+                            "value": "It is another name given to the curvy function in the perceptron",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "It is the transmission of error back through the network to adjust the inputs",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "It is applied on the weighted sum of input values to produce the output values",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "None of the mentioned",
+                            "is_correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "week": 2,
             "qustions": [
                 {

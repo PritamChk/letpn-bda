@@ -1,0 +1,60 @@
+What is back propagation?
+It is another name given to the curvy function in the perceptron
+It is the transmission of error back through the network to adjust the inputs
+It is the transmission of error back through the network to allow weights to be adjusted so that the network can learn
+None of the mentioned
+It is the transmission of error back through the network to allow weights to be adjusted so that the network can learn
+Neural Networks are complex ______________ with many parameters.
+Linear Functions
+Nonlinear Functions
+Discrete Functions
+Exponential Functions
+Linear Functions
+Which of the following is an application of NN (Neural Network)?
+Sales forecasting
+Data validation
+Risk management
+All of the mentioned
+All of the mentioned
+What is the advantage of basis function over mutilayer feedforward neural networks (MLFFNN)?
+Training of basis function is faster than MLFFNN
+Training of basis function is slower than MLFFNN
+Storing in basis function is faster than MLFFNN
+None of the mentioned
+Training of basis function is faster than MLFFNN
+What consist of a basic counterpropagation network?
+A feedforward network only
+A feedforward network with hidden layer
+Two feedforward network with hidden layer
+None of the mentioned
+Two feedforward network with hidden layer
+What is true regarding backpropagation rule?
+It is also called generalized delta rule
+Error in output is propagated backwards only to determine weight updates
+There is no feedback of signal at any stage
+All of the mentioned
+All of the mentioned
+A perceptron is a --------------------------------.
+Feed-forward neural network
+Back-propagation alogorithm
+Back-tracking algorithm  
+Feed Forward-backward algorithm
+Feed-forward neural network
+The network that involves backward links from output to the input and hidden layers is called as ____
+Self organizing maps
+Perceptrons
+Recurrent neural network
+Multi layered perceptron
+Recurrent neural network
+Which of the following statement are true?
+Feedforward networks are also used for autoassociation & pattern storage
+Feedback networks are also used for autoassociation & pattern storage
+Both of them
+None of the above
+Feedback networks are also used for autoassociation & pattern storage
+What is transfer function?
+It is another name given to the curvy function in the perceptron
+It is the transmission of error back through the network to adjust the inputs
+It is applied on the weighted sum of input values to produce the output values
+None of the mentioned
+It is applied on the weighted sum of input values to produce the output values

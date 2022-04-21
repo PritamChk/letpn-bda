@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "letpn-bda"
-version = "0.3.11"
+version = "1.0.0"
 description = "This is a Simple Quiz app for Practicing"
 authors = ["PRITAM CHAKRABORTY <pritam.chk98@gmail.com>"]
 readme = "README.md"

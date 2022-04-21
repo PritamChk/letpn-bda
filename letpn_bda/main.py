@@ -10,18 +10,20 @@ BASEDIR = pathlib.Path().absolute()
 
 app = t.Typer()
 
+
 @app.callback()
 def callback():
     """
     Awesome NPTEL Quiz
     """
 
+
 @app.command()
 def join_weeks(
     # from_:int=t.Option(1,'-f',help="from which week: #"),
     # to_:int = t.Option(9,'-t',help="to which week: #")
 ):
-    folder = os.path.join("letpn_bda","db")
+    folder = os.path.join("letpn_bda", "db")
     weeks_json = os.listdir(BASEDIR/folder)
     quiz = {"data": []}
     with t.progressbar(weeks_json, label="Merging : ", fill_char=t.style(" ", bg=t.colors.YELLOW)) as weeksjson:
@@ -31,7 +33,7 @@ def join_weeks(
                 wq = json.load(file)
                 quiz["data"].append(wq)
     quiz_data = json.dumps(quiz, indent=4)
-    saved_file = os.path.join(BASEDIR,"letpn_bda","quiz_data.json")
+    saved_file = os.path.join(BASEDIR, "letpn_bda", "quiz_data.json")
     with open(saved_file, "w") as file:
         file.write(quiz_data)
     t.echo(
@@ -45,13 +47,13 @@ def join_weeks(
 @app.command()
 def startquiz(
         name: str = t.Option("Hola", prompt="Write Your Name"),
-        week_no: int = t.Option(rnd.randint(1, 11)  # TODO change 11 to 12
+        week_no: int = t.Option(rnd.randint(1, 12)  
                                 , "--week-no", "-n", min=1, max=12,
                                 help="by default 1 and range  [ 1<=x<=12 ]"),
         weekly: bool = t.Option(
             True, "--weekly/--random", "-w/-r", help="If True then qus given weekly else taken randomly from any week"),
-        no_qus: int = t.Option(10, '--no-qus', "-q", min=3,
-                               max=110,  # TODO: change 110 -> 120
+        no_qus: int = t.Option(5, '--no-qus', "-q", min=1,
+                               max=120,
                                help="This is applicable for Random Quiz")
 ):
     """
@@ -209,8 +211,9 @@ def addqus(
     qbank_json = {
         "week": week
     }
-    file_path = os.path.join(BASEDIR,"letpn_bda","raw_text",(qbank_file+".txt"))
-    with open(file_path, "r",encoding="utf8") as file:
+    file_path = os.path.join(BASEDIR, "letpn_bda",
+                             "raw_text", (qbank_file+".txt"))
+    with open(file_path, "r", encoding="utf8") as file:
         readlines = file.readlines()
 
     import time
@@ -241,7 +244,8 @@ def addqus(
             )
     qbank_json["qustions"] = questions
     json_object = json.dumps(qbank_json, indent=4)
-    save_location =os.path.join( BASEDIR ,"letpn_bda","db",(qbank_file+".json"))
+    save_location = os.path.join(
+        BASEDIR, "letpn_bda", "db", (qbank_file+".json"))
     with open(save_location, "w") as f:
         f.write(json_object)
     success_msg = f"| Your "+t.style(f"week{week}.txt", fg=t.colors.BRIGHT_RED)+" has been successfuly converted to "+t.style(
@@ -254,4 +258,3 @@ def addqus(
         t.style(f"{BASEDIR/qbank_json_file}", fg=t.colors.BRIGHT_CYAN) +
         "\n-----------------------------------------------------------------\n"
     )
-

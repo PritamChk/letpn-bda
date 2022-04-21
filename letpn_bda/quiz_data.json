@@ -676,6 +676,231 @@
             ]
         },
         {
+            "week": 12,
+            "qustions": [
+                {
+                    "qno": 1,
+                    "statement": "Which of the following software packages cannot used to conduct discriminant analysis:",
+                    "options": [
+                        {
+                            "value": "EXCEL",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "SPSS",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "SAS",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "MATLAB",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 2,
+                    "statement": "The linear combinations of independent variables developed by discriminant analysis that will best discriminate between the categories of the dependent variable are:",
+                    "options": [
+                        {
+                            "value": "Discriminant functions",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Discriminant scores",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Classification matrix",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Characteristic profiles",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 3,
+                    "statement": "Which of the following tool is required for assessing discriminant analysis results that helps to plots the group membership of each case on a graph. ",
+                    "options": [
+                        {
+                            "value": "Characteristic profile",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Scatter gram",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Territorial map",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Pie chart",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 4,
+                    "statement": "What is the maximum number of discriminant functions that you could calculate for these data?",
+                    "options": [
+                        {
+                            "value": "1",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "2",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "3",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "4",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 5,
+                    "statement": "In discriminant analysis, correlation structure between predictors for each class should be:",
+                    "options": [
+                        {
+                            "value": "Differ",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Same",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "lies in between",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the above",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 6,
+                    "statement": "Which type of updating method yields more accurate results in case of ANN?",
+                    "options": [
+                        {
+                            "value": "Batch",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Case",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Both a and b",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the above",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 7,
+                    "statement": "\u2026\u2026\u2026\u2026is done after each case or record is run through the network.",
+                    "options": [
+                        {
+                            "value": "Case updating",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "Batch updating",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "Only a",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "None of the above",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 8,
+                    "statement": "The basic advantage of normalization process:",
+                    "options": [
+                        {
+                            "value": "It is a very efficient backpropagation technique",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "It returns back the normalized mean and standard deviation of weights",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "It normalizes all the input before sending it to the next layer",
+                            "is_correct": true
+                        },
+                        {
+                            "value": "None of these",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "qno": 9,
+                    "statement": "What is the credit assignment problem in the training of multi-layer feedforward networks?",
+                    "options": [
+                        {
+                            "value": "The problem of adjusting the weights for the output layer.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "The problem of adapting the neighbours of the winning unit.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "The problem of defining an error function for linearly inseparable problems.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "The problem of adjusting the weights for the hidden layers",
+                            "is_correct": true
+                        }
+                    ]
+                },
+                {
+                    "qno": 10,
+                    "statement": "What is not back propagation?",
+                    "options": [
+                        {
+                            "value": "It is the transmission of error back through the network to adjust the inputs",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "It is another name given to the curvy function in the perceptron",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "It is the transmission of output back through the network to allow weights to be adjusted so that the network can learn.",
+                            "is_correct": false
+                        },
+                        {
+                            "value": "All of the above",
+                            "is_correct": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "week": 2,
             "qustions": [
                 {
